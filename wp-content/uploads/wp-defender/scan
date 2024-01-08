@@ -1,0 +1,104 @@
+Initial ping self
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Prepare facts for a scan
+Current task gather_fact
+processing gather_fact
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task gather_fact
+processing gather_fact
+task gather_fact processed
+queue core_integrity_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task core_integrity_check
+processing core_integrity_check
+Fetch checksums, should only once
+current pos 0
+skip /home/corenobu/public_html/dummy/wp-includes/.htaccess because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.htaccess because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.htaccess.bk because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.quarantine because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.tmb because of file is whitelisted
+task core_integrity_check processed
+queue vuln_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task vuln_check
+processing vuln_check
+task vuln_check processed
+queue suspicious_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task suspicious_check
+processing suspicious_check
+task suspicious_check processed
+All done!
+array (
+  'id' => 1,
+  'status' => 'finish',
+  'date_start' => '2021-01-22 17:37:22',
+  'percent' => 75,
+  'total_tasks' => 4,
+  'task_checkpoint' => '',
+  'date_end' => '2021-01-22 17:37:22',
+  'is_automation' => false,
+)
+process done, queue for next
+Something wrong happen, saving and quit
+Initial ping self
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Prepare facts for a scan
+Current task gather_fact
+processing gather_fact
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task gather_fact
+processing gather_fact
+task gather_fact processed
+queue core_integrity_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task core_integrity_check
+processing core_integrity_check
+Fetch checksums, should only once
+current pos 0
+skip /home/corenobu/public_html/dummy/wp-includes/.htaccess because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.htaccess because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.htaccess.bk because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.quarantine because of file is whitelisted
+skip /home/corenobu/public_html/dummy/.tmb because of file is whitelisted
+task core_integrity_check processed
+queue vuln_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task vuln_check
+processing vuln_check
+task vuln_check processed
+queue suspicious_check for next
+process done, queue for next
+Scan not done, pinging
+ping url https://core1.nobullwebdesign.co.uk/dummy/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task suspicious_check
+processing suspicious_check
+task suspicious_check processed
+All done!
+array (
+  'id' => 2,
+  'status' => 'finish',
+  'date_start' => '2021-01-22 17:39:00',
+  'percent' => 75,
+  'total_tasks' => 4,
+  'task_checkpoint' => '',
+  'date_end' => '2021-01-22 17:39:00',
+  'is_automation' => false,
+)
+process done, queue for next
+Something wrong happen, saving and quit

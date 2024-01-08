@@ -1,0 +1,1826 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Feedback\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-21 14:09+0000\n"
+"PO-Revision-Date: 2021-02-17 08:28+0000\n"
+"Last-Translator: wpfeedback <account@wpfeedback.co>\n"
+"Language-Team: Hebrew\n"
+"Language: he-IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4.4"
+
+#: wpfeedback.php:81
+msgctxt "Post Type General Name"
+msgid "Wp feedback Types"
+msgstr "סוגי משימות"
+
+#: wpfeedback.php:82
+msgctxt "Post Type Singular Name"
+msgid "Wp feedback Type"
+msgstr "סוג משימה"
+
+#: wpfeedback.php:83
+msgid "WP feedBack"
+msgstr "WP Feedback"
+
+#: wpfeedback.php:84
+msgid "WP feedBack Type"
+msgstr "סוג משימה"
+
+#: wpfeedback.php:85
+msgid "WP feedBack Item Archives"
+msgstr "ארכיון המשימות"
+
+#: wpfeedback.php:86
+msgid "WP feedBack Item Attributes"
+msgstr "תכונות המשימה"
+
+#: wpfeedback.php:87
+msgid "WP feedBack Parent Item:"
+msgstr "פריט הורה"
+
+#: wpfeedback.php:88
+msgid "WP feedBack All Items"
+msgstr "על המשימות"
+
+#: wpfeedback.php:89
+msgid "WP feedBack Add New Item"
+msgstr "הוסף משימה חדשה"
+
+#: wpfeedback.php:90
+msgid "Add New WP feedBack"
+msgstr "הוספת משימה חדשה"
+
+#: wpfeedback.php:91
+msgid "WP feedBack New Item"
+msgstr "משימה חדשה"
+
+#: wpfeedback.php:92
+msgid "WP feedBack Edit Item"
+msgstr "עריכת משימה"
+
+#: wpfeedback.php:93
+msgid "WP feedBack Update Item"
+msgstr "עדכן פריט"
+
+#: wpfeedback.php:94
+msgid "WP feedBack View Item"
+msgstr "צפה במשימה"
+
+#: wpfeedback.php:95
+msgid "WP feedBack View Items"
+msgstr "צפה במשימות"
+
+#: wpfeedback.php:96
+msgid "WP feedBack Search Item"
+msgstr "חפש משימות"
+
+#: wpfeedback.php:97
+msgid "Not found WP feedBack"
+msgstr "לא נמצאו משימות"
+
+#: wpfeedback.php:98
+msgid "WP feedBack Not found in Trash"
+msgstr "לא נמצאו משימות בפח"
+
+#: wpfeedback.php:99
+msgid "WP feedBack Featured Image"
+msgstr "תמונה מרכזית של המשימה"
+
+#: wpfeedback.php:100
+msgid "WP feedBack Set featured image"
+msgstr " קביעת תמונה מרכזית"
+
+#: wpfeedback.php:101
+msgid "WP feedBack Remove featured image"
+msgstr " הסרת תמונה מרכזית"
+
+#: wpfeedback.php:102
+msgid "WP feedBack Use as featured image"
+msgstr "השתמש כתמונה מרכזית"
+
+#: wpfeedback.php:103
+msgid "WP feedBack Insert into item"
+msgstr "הוסף לתוך המשימה"
+
+#: wpfeedback.php:104 wpfeedback.php:172
+msgid "Uploaded to this item"
+msgstr "הועלה לפריט זה"
+
+#: wpfeedback.php:105
+msgid "WP feedBack Items list"
+msgstr "רשימת משימות"
+
+#: wpfeedback.php:106
+msgid "WP feedBack Items list navigation"
+msgstr "ניווט רשימת משימות"
+
+#: wpfeedback.php:107
+msgid "WP feedBack Filter items list"
+msgstr "סנן פריטי משימות"
+
+#: wpfeedback.php:110
+msgid "Wp feedback Type"
+msgstr "סוג משימה"
+
+#: wpfeedback.php:111
+msgid "Post Type Description"
+msgstr "תיאור סוג הפוסט"
+
+#: wpfeedback.php:149
+msgctxt "Post Type General Name"
+msgid "Graphics Type"
+msgstr "סוג הגרפיקה"
+
+#: wpfeedback.php:150
+msgctxt "Post Type Singular Name"
+msgid "Graphics Type"
+msgstr "סוג הגרפיקה"
+
+#: wpfeedback.php:151
+msgid "Graphics Types"
+msgstr "סוגי הגרפיקה"
+
+#: wpfeedback.php:152 wpfeedback.php:178
+msgid "Graphics Type"
+msgstr "סוג הגרפיקה"
+
+#: wpfeedback.php:153
+msgid "Graphics Archives"
+msgstr "ארכיון פרטי גרפיקה"
+
+#: wpfeedback.php:154
+msgid "Graphics Attributes"
+msgstr "תכונות הגרפיקה"
+
+#: wpfeedback.php:155
+msgid "Graphics Parent Item:"
+msgstr "הורה של פריט הגרפיקה"
+
+#: wpfeedback.php:156
+msgid "Graphics All Items"
+msgstr "כל פרטי הגרפיקה"
+
+#: wpfeedback.php:157
+msgid "Add Graphics Item"
+msgstr "הוספת פריט גרפיקה"
+
+#: wpfeedback.php:158
+msgid "Add New Graphics"
+msgstr "הוספת פריט גרפיקה חדש"
+
+#: wpfeedback.php:159
+msgid "Graphics New Item"
+msgstr "פריט גרפיקה חדש"
+
+#: wpfeedback.php:160
+msgid "Graphics Edit Item"
+msgstr "ערוך פריט גרפיקה"
+
+#: wpfeedback.php:161
+msgid "Graphics Update Item"
+msgstr "עדכון פריט גרפיקה"
+
+#: wpfeedback.php:162
+msgid "Graphics View Item"
+msgstr "צפייה בפריט הגרפיקה"
+
+#: wpfeedback.php:163
+msgid "Graphics View Items"
+msgstr "צפייה בפריטי הגרפיקה"
+
+#: wpfeedback.php:164
+msgid "Search Graphics Item"
+msgstr "חיפוש פריטי גרפיקה"
+
+#: wpfeedback.php:165
+msgid "Not found Graphics"
+msgstr "לא נמצאו פריטי גרפיקה"
+
+#: wpfeedback.php:166
+msgid "Graphics Not found in Trash"
+msgstr "לא נמצאו פריטי גרפיקה בפח"
+
+#: wpfeedback.php:167
+msgid "Graphics Featured Image"
+msgstr "עיצוב עיקרי"
+
+#: wpfeedback.php:168
+msgid "Graphics Set featured image"
+msgstr "קביעת תמונה מרכזית"
+
+#: wpfeedback.php:169
+msgid "Graphics Remove featured image"
+msgstr "הסרת תמונה מרכזית"
+
+#: wpfeedback.php:170
+msgid "Graphics Use as featured image"
+msgstr "שימוש הגרפיקה כתמונה מרכזית"
+
+#: wpfeedback.php:171
+msgid "Insert into Graphics item"
+msgstr "הוסף/י לתוך פריט הגרפיקה"
+
+#: wpfeedback.php:173
+msgid "Graphics Items list"
+msgstr "רשימת פריטי גרפיקה"
+
+#: wpfeedback.php:174
+msgid "Graphics Items list navigation"
+msgstr "ניווט רשימת פריטי גרפיקה"
+
+#: wpfeedback.php:175
+msgid "Graphics Filter items list"
+msgstr "פילטר פריטי גרפיקה"
+
+#: wpfeedback.php:179
+msgid "Graphics Type Description"
+msgstr "תיאור הפריט הגרפי"
+
+#: wpfeedback.php:504 wpfeedback.php:505 inc/admin/page-settings.php:116
+msgid "Tasks Center"
+msgstr "מנהל המשימות"
+
+#: wpfeedback.php:512 wpfeedback.php:513 inc/wpf_function.php:474 
+#: inc/wpf_popup_string.php:31 inc/wpf_ajax_functions.php:350 
+#: inc/admin/page-settings-permissions.php:41 inc/admin/page-settings.php:73 
+#: inc/admin/page-settings.php:151 inc/admin/page-settings-graphics.php:30
+msgid "Graphics"
+msgstr "גרפיקה"
+
+#: wpfeedback.php:521 wpfeedback.php:522 wpfeedback.php:579 
+#: inc/admin/page-settings-permissions.php:46 inc/admin/page-settings.php:77 
+#: inc/admin/page-settings-graphics.php:35
+msgid "Settings"
+msgstr "הגדרות"
+
+#: wpfeedback.php:531 wpfeedback.php:532 
+#: inc/admin/page-settings-permissions.php:51 
+#: inc/admin/page-settings-permissions.php:77 inc/admin/page-settings.php:82 
+#: inc/admin/page-settings-graphics.php:40
+msgid "Permissions"
+msgstr "הרשאות"
+
+#: wpfeedback.php:541 wpfeedback.php:542
+msgid "Integrations"
+msgstr "התממשקות"
+
+#: wpfeedback.php:552 wpfeedback.php:553 
+#: inc/admin/page-settings-permissions.php:63 inc/admin/page-settings.php:91 
+#: inc/admin/page-settings-graphics.php:52
+msgid "Support"
+msgstr "תמיכה"
+
+#: wpfeedback.php:560 wpfeedback.php:561 
+#: inc/admin/page-settings-permissions.php:68 inc/admin/page-settings.php:95 
+#: inc/admin/page-settings-graphics.php:57
+msgid "Upgrade"
+msgstr "שדרוג החבילה"
+
+#: wpfeedback.php:1609 wpfeedback.php:1619 wpfeedback.php:1622 
+#: inc/wpf_email_notifications.php:941 inc/admin/wpf_admin_function.php:268 
+#: inc/admin/wpf_admin_function.php:275
+msgid "Powered by"
+msgstr "מוגש ע\"י"
+
+#: wpfeedback.php:1653
+msgid "WP FeedBack Dashboard"
+msgstr "מרכז השליטה"
+
+#: wpfeedback.php:1656 inc/admin/wpf_admin_function.php:189
+msgid "Backend"
+msgstr "צד אחורי"
+
+#: wpfeedback.php:1670
+msgid "Send Reports:"
+msgstr "שליחת דו\"ח"
+
+#: wpfeedback.php:1673 inc/admin/wpf_admin_function.php:197
+msgid "Last 24 Hours"
+msgstr "ב24 השעות האחרונות"
+
+#: wpfeedback.php:1677 inc/admin/wpf_admin_function.php:201
+msgid "Last 7 Days"
+msgstr "ב7 ימים האחרונים"
+
+#: wpfeedback.php:1679 inc/admin/wpf_admin_function.php:203 
+#: inc/admin/page-settings.php:120
+msgid "Your report was sent"
+msgstr "הדוח שלך נשלח"
+
+#: wpfeedback.php:1682
+msgid "Reports"
+msgstr "דוח\"ות"
+
+#: wpfeedback.php:1689
+msgid "Filter by Status:"
+msgstr "סינון לפי מצב:"
+
+#: wpfeedback.php:1689
+msgid "Filter by Priority:"
+msgstr "סינון לפי עדיפות:"
+
+#: wpfeedback.php:1692
+msgid "Tasks Visibility"
+msgstr "אפשרויות תצוגה של משימות"
+
+#: wpfeedback.php:1692 inc/admin/wpf_admin_function.php:216
+msgid "Show Tasks"
+msgstr "הצגת משימות"
+
+#: wpfeedback.php:1693 inc/admin/wpf_admin_function.php:217
+msgid "Show Completed"
+msgstr "משימות שטופלו"
+
+#: wpfeedback.php:1694
+msgid "Sidebar Visibility"
+msgstr "אפשרויות תצוגה על סרגל הצד"
+
+#: wpfeedback.php:1694 inc/admin/page-settings.php:177
+msgid "Show Details"
+msgstr "הצגת פרטים"
+
+#: wpfeedback.php:1696
+msgid "Share Page Link : "
+msgstr "קישור לשיתוף:"
+
+#: wpfeedback.php:1696 inc/wpf_popup_string.php:38
+msgid "Remove Login Parameter"
+msgstr "הסתרת חלון ההתחברות לאתר"
+
+#: wpfeedback.php:1699
+msgid "Filter"
+msgstr "סינון"
+
+#: wpfeedback.php:1700
+msgid "Visibility"
+msgstr "תצוגה"
+
+#: wpfeedback.php:1702
+msgid "Share Page"
+msgstr "שיתוף העמוד"
+
+#: wpfeedback.php:1703 inc/wpf_function.php:471 inc/wpf_popup_string.php:30 
+#: inc/wpf_ajax_functions.php:347 inc/admin/page-settings.php:145 
+#: inc/admin/page-settings.php:173
+msgid "General"
+msgstr "כללי"
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid "Task already exist for this element."
+msgstr "משימה כבר קיימת על האלמנט הזה."
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid ""
+"Write your message in the existing thread. <br>Here, we opened it for you."
+msgstr "כתוב/י את ההודעה על המשימה הקיימת. "
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid "Remapping task...."
+msgstr "ממפה את המשימה..."
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid ""
+"Give it a few seconds. <br>Then, refresh the page to see the task in the new "
+"position."
+msgstr ""
+"המתין/י כמה שניות. ואז, רענן/י את העמוד כדי לראות את המשימה במיקום החדש."
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid "Remap task"
+msgstr "מיפוי מחדש"
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid ""
+"Place the task anywhere on the page to pinpoint the location of the request."
+msgstr "מקם/י את המשימה על חלק כלשהו של העמוד כדי למפות את הבקשה."
+
+#: wpfeedback.php:1731 inc/admin/wpf_admin_function.php:249
+msgid "Click to give your feedback!"
+msgstr "לחץ כדי לתת את המשוב שלך!"
+
+#: wpfeedback.php:1732
+msgid "WP FeedBack Sidebar"
+msgstr "סרגל צד"
+
+#: wpfeedback.php:1738
+msgid "This Page"
+msgstr "עמוד זה"
+
+#: wpfeedback.php:1739 inc/admin/wpf_admin_function.php:255
+msgid "All Pages"
+msgstr "כל העמודים"
+
+#: wpfeedback.php:1750 inc/admin/wpf_admin_function.php:279
+msgid "Commenting enabled"
+msgstr "מצב תגובות פעיל"
+
+#: wpfeedback.php:1750 inc/admin/wpf_admin_function.php:279
+msgid "General Task"
+msgstr "משימה כללית"
+
+#: wpfeedback.php:1750 inc/admin/wpf_admin_function.php:279
+msgid "Cancel"
+msgstr "ביטול"
+
+#: inc/wpf_email_notifications.php:127 inc/wpf_email_notifications.php:902
+msgid "You have a new task on"
+msgstr "יש משימה חדשה על "
+
+#: inc/wpf_email_notifications.php:132 inc/wpf_email_notifications.php:903
+msgid "You have a new reply on"
+msgstr "יש תגובה חדשה על "
+
+#: inc/wpf_email_notifications.php:143 inc/wpf_email_notifications.php:904
+msgid "Your task on"
+msgstr "המשימה שלך על  "
+
+#: inc/wpf_email_notifications.php:148 inc/wpf_email_notifications.php:906
+msgid "Your task status on"
+msgstr "מצב המשימה על  "
+
+#: inc/wpf_email_notifications.php:148 inc/wpf_email_notifications.php:907
+msgid "has changed"
+msgstr "השתנה"
+
+#: inc/wpf_email_notifications.php:155
+msgid "Your tasks summary for the day"
+msgstr "סיכום משימות יומי"
+
+#: inc/wpf_email_notifications.php:183 inc/admin/page-settings.php:129
+msgid "Weekly Report"
+msgstr "דו\"ח שבועי"
+
+#: inc/wpf_email_notifications.php:250 inc/wpf_email_notifications.php:295 
+#: inc/wpf_email_notifications.php:495 inc/wpf_email_notifications.php:543 
+#: inc/wpf_email_notifications.php:755 inc/wpf_email_notifications.php:803 
+#: inc/wpf_email_notifications.php:930
+msgid "Open"
+msgstr "פתוח"
+
+#: inc/wpf_email_notifications.php:388 inc/wpf_email_notifications.php:648
+msgid "Your tasks summary for the day for"
+msgstr "סיכום משימות יומי - "
+
+#: inc/wpf_email_notifications.php:422 inc/wpf_email_notifications.php:682
+msgid "Weekly Report for"
+msgstr "דו\"ח שבועי עבור"
+
+#: inc/wpf_email_notifications.php:905
+msgid "is done"
+msgstr "בוצע"
+
+#: inc/wpf_email_notifications.php:908
+msgid "Your daily report for"
+msgstr "סיכום משימות יומי - "
+
+#: inc/wpf_email_notifications.php:909
+msgid "Posted on"
+msgstr "פורסם ב"
+
+#: inc/wpf_email_notifications.php:910
+msgid "It is now marked as"
+msgstr "מסומן כ"
+
+#: inc/wpf_email_notifications.php:912
+msgid "Open task"
+msgstr "משימה פתוחה"
+
+#: inc/wpf_email_notifications.php:913
+msgid "In progress"
+msgstr "בטיפול"
+
+#: inc/wpf_email_notifications.php:914
+msgid "In Progress"
+msgstr "בטיפול"
+
+#: inc/wpf_email_notifications.php:915
+msgid "Pending Review"
+msgstr "ממתין לבדיקה"
+
+#: inc/wpf_email_notifications.php:916 inc/wpf_popup_string.php:14
+msgid "Complete"
+msgstr "טופל"
+
+#: inc/wpf_email_notifications.php:918
+msgid "Tasks summary for the day"
+msgstr "סיכום משימות יומי"
+
+#: inc/wpf_email_notifications.php:919
+msgid "Tasks completed today"
+msgstr "משימות שטופלו היום"
+
+#: inc/wpf_email_notifications.php:920
+msgid "Tasks summary for the week"
+msgstr "סיכום משימות שבועי"
+
+#: inc/wpf_email_notifications.php:921
+msgid "Tasks completed this week"
+msgstr "משימות שטופלו השבוע"
+
+#: inc/wpf_email_notifications.php:922
+msgid "Task ID"
+msgstr "מזהה משימה"
+
+#: inc/wpf_email_notifications.php:923
+msgid "Task"
+msgstr "משימה"
+
+#: inc/wpf_email_notifications.php:924
+msgid "Post Name"
+msgstr "שם הפוסט"
+
+#: inc/wpf_email_notifications.php:925
+msgid "Post name"
+msgstr "שם הפוסט"
+
+#: inc/wpf_email_notifications.php:926
+msgid "Post"
+msgstr "פוסט"
+
+#: inc/wpf_email_notifications.php:927 
+#: inc/admin/page-settings-permissions.php:168
+msgid "Priority"
+msgstr "עדיפות"
+
+#: inc/wpf_email_notifications.php:928 
+#: inc/admin/page-settings-permissions.php:175
+msgid "Status"
+msgstr "מצב"
+
+#: inc/wpf_email_notifications.php:929
+msgid "View"
+msgstr "צפייה"
+
+#: inc/wpf_email_notifications.php:931
+msgid "Click here to reply"
+msgstr "לחץ/י כאן לתגובה"
+
+#: inc/wpf_email_notifications.php:932
+msgid "Direct URL"
+msgstr "קישור ישיר:"
+
+#: inc/wpf_email_notifications.php:933
+msgid "Original Request"
+msgstr "בקשה מקורית"
+
+#: inc/wpf_email_notifications.php:934
+msgid "Users"
+msgstr "משתמשים"
+
+#: inc/wpf_email_notifications.php:936
+msgid "DIV Handle"
+msgstr "סימון הHTML"
+
+#: inc/wpf_email_notifications.php:937
+msgid "DIV handle"
+msgstr "סימון הHTML"
+
+#: inc/wpf_email_notifications.php:938
+msgid "Screensize"
+msgstr "גודל מסך"
+
+#: inc/wpf_email_notifications.php:939
+msgid "Browser"
+msgstr "דפדפן"
+
+#: inc/wpf_email_notifications.php:940
+msgid "User IP"
+msgstr "IP משתמש"
+
+#: inc/wpf_email_notifications.php:942 inc/wpf_popup_string.php:7
+msgid "Low"
+msgstr "נמוך"
+
+#: inc/wpf_email_notifications.php:943 inc/wpf_popup_string.php:34
+msgid "by "
+msgstr "על ידי "
+
+#: inc/wpf_email_notifications.php:944 inc/wpf_function.php:548 
+#: inc/wpf_ajax_functions.php:380
+msgid "By "
+msgstr "על ידי "
+
+#: inc/wpf_email_notifications.php:945
+msgid "Click here to view the task"
+msgstr "לחץ/י כאן לצפייה במשימה"
+
+#: inc/wpf_email_notifications.php:950
+msgid ""
+"This email and any attachments to it may be confidential and are intended "
+"solely for the use of the individual to whom it is addressed."
+msgstr ""
+"האימייל הזה ועל מסמך המצורף אליו עשוי להיות חסוי ומיועד אך ורק לשימוש האדם "
+"אשר אליו הוא מיועד."
+
+#: inc/wpf_email_notifications.php:951
+msgid ""
+"If you are not the intended recipient of this email, you must neither take "
+"any action based upon its contents nor copy or show it to anyone."
+msgstr ""
+"אם את/ה לא אמור/ה לקבל את האימייל הזה, אינך מורשה/ת לעשות כל פעולה בהתבסס על "
+"האימייל הזה. זה כולל איסור העתקה או הצגתו למישהו."
+
+#: inc/wpf_email_notifications.php:952
+msgid ""
+"Please contact the sender if you believe you have received this email in "
+"error."
+msgstr "אנא צור/י קשר עם השולח אם הנך מאמין/ה שהאימייל הזה נשלח אליך בשגגה."
+
+#: inc/wpf_function.php:482 inc/wpf_ajax_functions.php:358 
+#: inc/admin/page-settings.php:147
+msgid "Admin"
+msgstr "מסכי ניהול"
+
+#: inc/wpf_function.php:671
+msgid "Your settings have been saved!"
+msgstr "ההגדרות נשמרו."
+
+#: inc/wpf_function.php:678
+msgid "Your Settings not saved. "
+msgstr "ההגדרות נשמרו."
+
+#: inc/wpf_function.php:758
+msgid " seconds ago"
+msgstr "שניות עברו"
+
+#: inc/wpf_function.php:760
+msgid " minutes ago"
+msgstr "דקות עברו"
+
+#: inc/wpf_function.php:763
+msgid " hours ago"
+msgstr "שעות עברו"
+
+# Shown in the comment box, describing the days since the comment was created.
+#: inc/wpf_function.php:766
+msgid " days ago"
+msgstr "ימים עברו"
+
+#: inc/wpf_function.php:769
+msgid " months ago"
+msgstr "חודשים עברו"
+
+#: inc/wpf_function.php:772
+msgid " years ago"
+msgstr "שנים עברו"
+
+#: inc/wpf_function.php:864
+msgid "WP Feedback Information"
+msgstr "WP Feedback מידע"
+
+#: inc/wpf_function.php:870
+msgid "User Type"
+msgstr "סוג משתמש"
+
+#: inc/wpf_function.php:875
+msgid "Select"
+msgstr "בחירה"
+
+#: inc/wpf_function.php:890 inc/admin/page-settings.php:491
+msgid "Email notifications"
+msgstr "התראות אימייל"
+
+#: inc/wpf_function.php:978
+msgid "Receive email notification for every new task"
+msgstr "קבלת התראת אימייל על כל משימה חדשה"
+
+#: inc/wpf_function.php:990
+msgid "Receive email notification for every new comment"
+msgstr "קבלת התראת אימייל על כל תגובה חדשה"
+
+#: inc/wpf_function.php:1002
+msgid "Receive email notification when a task is marked as complete"
+msgstr "קבלת התראת אימייל כשמשימה מסומנת כ\"טופלה\""
+
+#: inc/wpf_function.php:1014
+msgid "Receive email notification for every status change"
+msgstr "קבלת התראה אימייל כשסטטוס משימה השתנה"
+
+#: inc/wpf_function.php:1052
+msgid "Auto receive email notification for daily report"
+msgstr "קבלת דו\"ח סיכום משימות מ24 השעות האחרונות"
+
+#: inc/wpf_function.php:1064
+msgid "Auto receive email notification for weekly report"
+msgstr "קבלת דו\"ח סיכום משימות מ7 ימים האחרונים"
+
+#: inc/wpf_function.php:1298
+msgid "Reset"
+msgstr "חזור"
+
+#: inc/wpf_function.php:1444 inc/wpf_function.php:1447
+msgid "Version"
+msgstr "גרסא"
+
+#: inc/wpf_function.php:1453
+msgid "Version 1"
+msgstr "גרסא 1"
+
+#: inc/wpf_function.php:1661
+msgid "Select Option"
+msgstr "בחירת אפשרויות"
+
+#: inc/wpf_popup_string.php:8
+msgid "Medium"
+msgstr "בינוני"
+
+#: inc/wpf_popup_string.php:9
+msgid "High"
+msgstr "גבוה"
+
+#: inc/wpf_popup_string.php:10
+msgid "Critical"
+msgstr "קריטי"
+
+#: inc/wpf_popup_string.php:11
+msgid "Open Task"
+msgstr "משימה פתוחה"
+
+#: inc/wpf_popup_string.php:12
+msgid "In Prog"
+msgstr "בטיפול"
+
+#: inc/wpf_popup_string.php:13
+msgid "Pending"
+msgstr "בהמתנה"
+
+#: inc/wpf_popup_string.php:15
+msgid "Screenshot The Current View"
+msgstr "צילום מסך של מה שרואים עכשיו"
+
+#: inc/wpf_popup_string.php:16
+msgid "Leave a comment..."
+msgstr "כתיבת ההודעה..."
+
+#: inc/wpf_popup_string.php:17
+msgid "Add Comment"
+msgstr "שליחת הודעה"
+
+#: inc/wpf_popup_string.php:18
+msgid "A user must be selected to post a comment"
+msgstr "צריך לבחור משתמש לפני שאפשר לפרסם את המשימה"
+
+#: inc/wpf_popup_string.php:19
+msgid "Please post your comment before performing this action"
+msgstr "אנא לחץ/י על כפתור פרסום ההודעה לפני שניתן יהיה לבצע את הפעולה הזו."
+
+#: inc/wpf_popup_string.php:20
+msgid ""
+"You are trying to upload an invalid filetype <br>Allowed File Types: JPG, "
+"PNG, GIF, PDF, DOC, DOCX and XLSX, MP4, WEBM, MOV, WMV, AVI"
+msgstr ""
+"הנך מנסה להעלות סוג קובץ שאינו מותר.<br>סוגי קבצים מותרים: JPG, PNG, GIF, "
+"PDF, DOC, DOCX and XLSX, MP4, WEBM, MOV, WMV, AVI"
+
+#: inc/wpf_popup_string.php:21
+msgid "Resolution:"
+msgstr "גודל מסך:"
+
+#: inc/wpf_popup_string.php:22
+msgid "Browser:"
+msgstr "דפדפן:"
+
+#: inc/wpf_popup_string.php:23
+msgid "User Name:"
+msgstr "שם משתמש:"
+
+#: inc/wpf_popup_string.php:24
+msgid "User IP:"
+msgstr "IP משתמש:"
+
+#: inc/wpf_popup_string.php:25
+msgid "Task ID:"
+msgstr "מזהה משימה:"
+
+#: inc/wpf_popup_string.php:26 inc/admin/page-settings.php:300
+msgid "Delete ticket"
+msgstr "מחיקת משימה"
+
+#: inc/wpf_popup_string.php:27
+msgid "Better to change the status to complete."
+msgstr "מומלץ לשנות את הססטוס לטופל."
+
+#: inc/wpf_popup_string.php:28
+msgid "Are you sure you want to delete?"
+msgstr "את/ה בטוח/ה שתרצה/י למחוק את המשימה?"
+
+#: inc/wpf_popup_string.php:29
+msgid "Yes"
+msgstr "כן"
+
+#: inc/wpf_popup_string.php:32 inc/wpf_ajax_functions.php:619
+msgid "just now"
+msgstr "רק עכשיו"
+
+#: inc/wpf_popup_string.php:33
+msgid "Send Message"
+msgstr "שליחת הודעה"
+
+#: inc/wpf_popup_string.php:35 inc/admin/page-settings.php:242
+msgid "Additional Information"
+msgstr "מידע נוסף"
+
+#: inc/wpf_popup_string.php:36 inc/admin/page-settings.php:252
+msgid "Custom Tags"
+msgstr "תגיות"
+
+#: inc/wpf_popup_string.php:37
+msgid "Share Task Link :"
+msgstr "קישור לשיתוף:"
+
+#: inc/wpf_popup_string.php:39
+msgid "Bulk Editing Tasks"
+msgstr "עריכה מרובה של משימות"
+
+#: inc/wpf_popup_string.php:40 inc/admin/page-settings.php:172
+msgid "Tasks Found"
+msgstr "משימות שנמצאו"
+
+#: inc/wpf_popup_string.php:41
+msgid "General Task: Choose a page/post to comment"
+msgstr "משימה כללית: בחר/י עמוד או פוסט כדי להתחיל..."
+
+#: inc/wpf_popup_string.php:42
+msgid "Remap the task to other element"
+msgstr "מיפוי מחדש של משימה לאלמט אחר על העמוד"
+
+#: graphics/wpf_graphics_all_list.php:13
+msgid "Add a New Graphic"
+msgstr "הוספת פריט גרפיקה חדש"
+
+#: graphics/wpf_graphics_all_list.php:13
+msgid ""
+"Upload an image to collaborate visually using WP FeedBack PRO, perfect for "
+"screen mockups, logos, flyers or any other type of graphic you are designing."
+msgstr ""
+"הוסף/י קובץ תמונה כדי לשתף פעולה בצורה ויזואלית באמצעות WP FeedBack PRO. "
+"מעולה בשביל מוקאפים, לוגואים, פלאיירים או כל סוג גרפיקה שהנך מעצב/ת."
+
+#: graphics/wpf_graphics.php:165 graphics/wpf_graphics.php:172
+msgid "Mark as complete"
+msgstr "סמן/י כבוצע"
+
+#: graphics/wpf_graphics.php:168 graphics/wpf_graphics.php:174
+msgid "Completed"
+msgstr "בוצע"
+
+#: inc/admin/wpf_backend_initial_setup.php:17
+msgid "Let's get you up and running"
+msgstr "בואו נתחיל להריץ עניינים!"
+
+#: inc/admin/wpf_backend_initial_setup.php:18
+#, php-format
+msgid "Good to have you here %s! There are only 4 steps."
+msgstr "ברוכים הבאים! ישנם רק 4 שלבים קצרים"
+
+#: inc/admin/wpf_backend_initial_setup.php:22
+msgid "1. Add your license key."
+msgstr "1. הוספת מספר הרשיון שלך."
+
+#: inc/admin/wpf_backend_initial_setup.php:23
+msgid "Found on your purchase confirmation email or within"
+msgstr "ניתן למצוא את זה באימייל של אישור ההזמנה או בתוך  באתר שלנו."
+
+#: inc/admin/wpf_backend_initial_setup.php:23
+msgid "your account."
+msgstr "החשבון שלך."
+
+#: inc/admin/wpf_backend_initial_setup.php:49
+msgid "Validate Domain"
+msgstr "אימות הדומיין"
+
+#: inc/admin/wpf_backend_initial_setup.php:50
+msgid "Your domain is not validated,please visit your account on our website."
+msgstr "הדומיין לא מאומת, אנא בקר/י בחשבון שלך באתר שלנו."
+
+#: inc/admin/wpf_backend_initial_setup.php:51
+msgid "The plugin will not work until you complete this step."
+msgstr "ההתקן לא יעבוד עד שהשלב הזה בוצע."
+
+#: inc/admin/wpf_backend_initial_setup.php:55
+msgid "2. Who should comment?"
+msgstr "2. למי מותר ליצור משימות?"
+
+#: inc/admin/wpf_backend_initial_setup.php:56
+msgid "The user roles that are allowed to create tickets and give feedback."
+msgstr "סוגי המשתמשים שמורשים ליצור משימות ולהגיב על משימות באתר."
+
+#: inc/admin/wpf_backend_initial_setup.php:77
+msgid "Allow guests to create tickets, without the need to log in to the site."
+msgstr "אפשר/י לאורחים (מבקרים) ליצור משימות, ללא צורך להתחבר לאתר."
+
+#: inc/admin/wpf_backend_initial_setup.php:79
+msgid ""
+"This is great for staging sites or during the build, but not ideal for live "
+"websites. The real magic is getting your clients used to using WordPress by "
+"encouraging them to log in to their own website."
+msgstr ""
+"זה מעולה לאתרים בזמן תהליך הבנייה או סביבות פיתוח, אבל לא אידאלי לאתרים חיים."
+" הקסם האמיתי הוא להרגיל את הלקוחות שלך להשתמש בוורדפרס ע\"י עידוד שלהם "
+"להתחבר לאתר שלהם."
+
+#: inc/admin/wpf_backend_initial_setup.php:83
+msgid "3. Global Settings"
+msgstr "3. הגדרות כלליות"
+
+#: inc/admin/wpf_backend_initial_setup.php:99 
+#: inc/admin/wpf_backend_initial_setup.php:156
+msgid "<< Back"
+msgstr "קודם "
+
+#: inc/admin/wpf_backend_initial_setup.php:101 
+#: inc/admin/wpf_backend_initial_setup.php:158
+msgid "Next >>"
+msgstr "הבא "
+
+#: inc/admin/wpf_backend_initial_setup.php:107
+msgid "3. Choose notifications"
+msgstr "3. בחירת ההתראות"
+
+#: inc/admin/wpf_backend_initial_setup.php:109
+msgid "Which notifications would you like the plugin to send out?"
+msgstr "אילו מההתראות הבאות תרצה/י שההתקן שלנו ישלח למשתמשים?"
+
+#: inc/admin/wpf_backend_initial_setup.php:110
+msgid ""
+"These are global settings. Each user can then choose their own notifications "
+"out of the options selected here."
+msgstr ""
+"אלה הן אופציות גלובליות להתראות. בנוסף, כל משתמש יכול לבחור את סוגי ההתראות "
+"שהוא מקבל (במסכי ההדרכה הראשוניים בצד הקדמי או בתוך הגדרות הפרופיל של אותו "
+"משתמש בוורדפרס)."
+
+#: inc/admin/wpf_backend_initial_setup.php:115 inc/admin/page-settings.php:499
+msgid "Send email notification for every new task"
+msgstr "שליחת התראת אימייל על כל משימה חדשה"
+
+#: inc/admin/wpf_backend_initial_setup.php:120 inc/admin/page-settings.php:506
+msgid "Send email notification for every new comment"
+msgstr "שליחת התראת אימייל על כל תגובה חדשה"
+
+#: inc/admin/wpf_backend_initial_setup.php:125 inc/admin/page-settings.php:513
+msgid "Send email notification when a task is marked as complete"
+msgstr "שליחת התראת אימייל כשמשימה מסומנת כ\"טופלה\""
+
+#: inc/admin/wpf_backend_initial_setup.php:130 inc/admin/page-settings.php:520
+msgid "Send email notification for every status change"
+msgstr "שליחת התראה אימייל כשסטטוס משימה השתנה"
+
+#: inc/admin/wpf_backend_initial_setup.php:135 inc/admin/page-settings.php:527
+msgid "Send email notification for last 24 hours report"
+msgstr "שליחת דו\"ח סיכום משימות מ24 השעות האחרונות"
+
+#: inc/admin/wpf_backend_initial_setup.php:140 inc/admin/page-settings.php:534
+msgid "Send email notification for last 7 days report"
+msgstr "שליחת דו\"ח סיכום משימות מ7 ימים האחרונים"
+
+#: inc/admin/wpf_backend_initial_setup.php:145 inc/admin/page-settings.php:541
+msgid "Auto send email notification for daily report"
+msgstr "שליחת דו\"ח סיכום משימות מ24 השעות האחרונות בצורה אוטומטית"
+
+#: inc/admin/wpf_backend_initial_setup.php:150 inc/admin/page-settings.php:548
+msgid "Auto send email notification for weekly report"
+msgstr "שליחת דו\"ח סיכום משימות מ7 ימים האחרונים בצורה אוטומטית"
+
+#: inc/admin/wpf_backend_initial_setup.php:163
+msgid "4. All done!"
+msgstr "4. זהו! סיימנו!"
+
+#: inc/admin/wpf_backend_initial_setup.php:164
+msgid ""
+"Watch this short video to show you how to use WP Feedback to its full "
+"potential, saving you loaaaads of time and getting your client to love you "
+"even more."
+msgstr ""
+"צפה/י בסרטון הקצר הזה כדי להבין איך WP Feedback יכול לחסוך לך מללללללא זמן "
+"ולגרום ללקוחות שלך לאהוב אותך אפילו יותר."
+
+#: inc/admin/wpf_backend_initial_setup.php:175
+msgid "Let's rock"
+msgstr "בואו ניתן בראש"
+
+#: inc/admin/wpf_backend_initial_setup.php:179
+msgid "Skip Wizard"
+msgstr "דלג/י על תהליך ההתקנה"
+
+#: inc/admin/page-settings-permissions.php:37 inc/admin/page-settings.php:70 
+#: inc/admin/page-settings-graphics.php:26
+msgid "Tasks"
+msgstr "משימות"
+
+#: inc/admin/page-settings-permissions.php:57 inc/admin/page-settings.php:87 
+#: inc/admin/page-settings-graphics.php:46
+msgid "Integrate"
+msgstr "התממשקות"
+
+#: inc/admin/page-settings-permissions.php:84
+msgid "Validate Your Installation"
+msgstr "אמת/י את הרשיון"
+
+#: inc/admin/page-settings-permissions.php:85
+msgid ""
+"The plugin will not work unless you insert a valid license key and <a "
+"href=\"https://wpfeedback.co/knowledge-base/faq/installation/\" "
+"target=\"_blank\">link the domain</a>."
+msgstr ""
+"ההתקן לא יעבוד אלא אם הרשיון תקין<a href=\"https://wpfeedback.co/knowledge-"
+"base/faq/installation/\" target=\"_blank\">ומחובר לדומיין</a>."
+
+#: inc/admin/page-settings-permissions.php:94
+msgid ""
+"If you don't have a valid license, <a href='https://wpfeedback.co/' "
+"target='_blank'>Please click here to get a new license key</a>"
+msgstr ""
+"אם אין לך רישיון בתוקף, <a href='https://wp feedback.co/' target='_blank'> "
+"אנא לחץ/י פה כדי לבקש רשיון חדש</a>"
+
+#: inc/admin/page-settings-permissions.php:103
+msgid "User roles allowed to create tasks"
+msgstr "סוגי משתמשים שמותרים ליצור משימות"
+
+#: inc/admin/page-settings-permissions.php:103
+msgid ""
+"If a user role is not selected, they will not be able to see WP Feedback on "
+"the front-end, they will still be able to access the plugin settings though "
+"unless you restrict this someone else."
+msgstr ""
+"אם סוג משתמש לא נבחר, הם לא יוכלו לראות את ההתקן. הם עדיין יוכלו לראות את "
+"מסכי ההגדרות של ההתקן, כל עוד מוגדרים כ\"וובמסטר\""
+
+#: inc/admin/page-settings-permissions.php:104
+msgid "Hold down the CTRL key to choose multiple options."
+msgstr "החזק/י את לחצן הCTRL וסמן/י כדי לבחור כמה מתוך הרשימה"
+
+#: inc/admin/page-settings-permissions.php:115
+msgid "Guest allowed"
+msgstr "מצב אורחים"
+
+#: inc/admin/page-settings-permissions.php:115
+msgid ""
+"Enabling this will make WP Feedback visible to everyone who visits your site "
+"and will allow them to create tasks and comment on existing ones."
+msgstr ""
+"הדלקת המצב הזה יאפשר לכל מבקר באתר ליצור משימות ולהגיב על משימות קיימות. גם "
+"אם הם לא מחוברים."
+
+#: inc/admin/page-settings-permissions.php:125
+msgid "Stop comments for admins"
+msgstr "עצור הערות למנהלי מערכת"
+
+#: inc/admin/page-settings-permissions.php:125
+msgid "Stop comments for admins on front end."
+msgstr "עצור הערות למנהלי מערכת בחזית."
+
+#: inc/admin/page-settings-permissions.php:135
+msgid "Do not add this website to your Dashboard"
+msgstr "חסום הוספה של אתר זה במערכת ניהול האתרים שלך"
+
+#: inc/admin/page-settings-permissions.php:135
+msgid ""
+"This setting will remove this website from your dashboard, if you'd like to "
+"add it again untick this setting and save changes"
+msgstr ""
+"האופציה הזו תסיר את האתר ממרכז השליטה המרכזי, אם תרצה/י להוסיף אותו שוב, "
+"הסר/י את הסימון מקופסא זו ושמור/י שינויים"
+
+#: inc/admin/page-settings-permissions.php:143
+msgid "Customisations "
+msgstr "התאמה אישית"
+
+#: inc/admin/page-settings-permissions.php:143
+msgid ""
+"These names are for the setup wizard when you first installed the plugin. "
+"Every user who comes to the website after installation will have to go "
+"through it and you can name the 3 options here."
+msgstr ""
+"הגדרות השמות הנ\"ל הן בשביל תהליך ההכרות הראשוני בצד הקדמי של האתר לאחר "
+"ביקור ראשון באתר אחרי הפעלת ההתקן. כל משתמש שיבקר באתר אחרי ההתקנה יעבור דרך "
+"הדרכה זריזה ויבחר את האופציה הרלוונטית לו."
+
+#: inc/admin/page-settings-permissions.php:144 
+#: inc/admin/page-settings-permissions.php:155
+msgid "Client (Website Owner) "
+msgstr "לקוח (בעל האתר)"
+
+#: inc/admin/page-settings-permissions.php:144
+msgid ""
+"Can do everything except: Choose and change status, access the settings, "
+"support and upgrade screens. Can only delete their own tickets."
+msgstr ""
+"יכולים לעשות הכל, פרט ל: בחירה ושינוי מצב המשימה, גישה למסכי ההגדרות ושדרוג "
+"התוכנית. כן ניתן להם למחוק את המשימות שהם יצרו בעצמם."
+
+#: inc/admin/page-settings-permissions.php:145 
+#: inc/admin/page-settings-permissions.php:156
+msgid "Webmaster"
+msgstr "מומחה רשת"
+
+#: inc/admin/page-settings-permissions.php:145
+msgid "Super admin – he has full capabilities for all the plugin’s functions. "
+msgstr "סופר מנהל - יכול לגשת ולבצע את כל היכולות של ההתקן."
+
+#: inc/admin/page-settings-permissions.php:146 
+#: inc/admin/page-settings-permissions.php:157
+msgid "Others "
+msgstr "אחרים"
+
+#: inc/admin/page-settings-permissions.php:146
+msgid ""
+"Can do everything except: Choose and change status and urgency, Access the "
+"settings, support, integration and upgrade screens. Can only delete their "
+"own tickets. "
+msgstr ""
+"יכולים לעשות הכל, פרט ל: בחירה ושינוי עדיפות ומצב המשימה, גישה למסכי ההגדרות,"
+" התממשקות ושדרוג התוכנית. כן ניתן להם למחוק את המשימות שהם יצרו בעצמם."
+
+#: inc/admin/page-settings-permissions.php:151
+msgid "User permissions"
+msgstr "הרשאות משתמש"
+
+#: inc/admin/page-settings-permissions.php:158
+msgid "Guest "
+msgstr "אורח"
+
+#: inc/admin/page-settings-permissions.php:161
+msgid "Add User"
+msgstr "בחירת משתמשים"
+
+#: inc/admin/page-settings-permissions.php:182 inc/admin/page-settings.php:195
+msgid "Screenshot"
+msgstr "צילום מסך"
+
+#: inc/admin/page-settings-permissions.php:189
+msgid "Information"
+msgstr "מידע"
+
+#: inc/admin/page-settings-permissions.php:196
+msgid "Delete"
+msgstr "מחיקה"
+
+#: inc/admin/page-settings-permissions.php:204
+msgid "Auto Screenshot"
+msgstr "צילום מסך אוטומטי"
+
+#: inc/admin/page-settings-permissions.php:218
+msgid "Default users"
+msgstr "משתמשים ראשיים"
+
+#: inc/admin/page-settings-permissions.php:220
+msgid "The website builder"
+msgstr "בונה האתר (וובמסטר)"
+
+#: inc/admin/page-settings-permissions.php:221
+msgid ""
+"The website builder will add this user to all tasks by default, allowing the "
+"client to skip the \"choose a user\" tab when creating a task."
+msgstr ""
+"אופציה זו תוסיף את המשתמש של בונה האתר לכל המשימות בצורה אוטומטית כדי שהלקוח "
+"לא יצטרך לבחור כל פעם למי להודיע על משימות חדשות שנוצרות."
+
+#: inc/admin/page-settings-permissions.php:223 
+#: inc/admin/page-settings-permissions.php:238
+msgid "select"
+msgstr "בחר"
+
+#: inc/admin/page-settings-permissions.php:235
+msgid "The client"
+msgstr "הלקוח"
+
+#: inc/admin/page-settings-permissions.php:236
+msgid ""
+"Create a user for the client and assign it here to allow the client to "
+"comment in guest mode but still be assigned to the tickets for replies and "
+"notifications."
+msgstr ""
+"מומלץ ליצור משתמש ללקוח ולבחור את המשתמש הזה פה כדי לאפשר ללקוח ליצור משימות "
+"ולהגיב ב\"מצב אורחים\". זה יוודא שהלקוח יקבל את ההתרעות הרלוונטיות גם ללא "
+"הצורך להתחבר לאתר."
+
+#: inc/admin/page-settings-permissions.php:249 inc/admin/page-settings.php:560
+msgid "Save Changes"
+msgstr "שמירת שינויים"
+
+#: inc/admin/wpf_admin_function.php:242 inc/admin/page-settings.php:155 
+#: inc/admin/page-settings.php:259 inc/admin/page-settings.php:290
+msgid "Task Status"
+msgstr "סטטוס המשימה"
+
+#: inc/admin/wpf_admin_function.php:243 inc/admin/page-settings.php:160 
+#: inc/admin/page-settings.php:265 inc/admin/page-settings.php:294
+msgid "Task Urgency"
+msgstr "דחיפות המשימה"
+
+#: inc/admin/wpf_admin_function.php:254
+msgid "On This Page"
+msgstr "בעמוד הזה"
+
+#: inc/admin/wpf_admin_function.php:256
+msgid "Frontend"
+msgstr "צד קדמי"
+
+#: inc/admin/page-settings.php:119
+msgid "Search by task title"
+msgstr "חיפוש ע\"פ כותרת המשימה"
+
+#: inc/admin/page-settings.php:124
+msgid "Daily Report"
+msgstr "דו\"ח יומי"
+
+#: inc/admin/page-settings.php:138
+msgid "Filter Tasks"
+msgstr "סינון משימות"
+
+#: inc/admin/page-settings.php:141
+msgid "Task Types"
+msgstr "סוגי המשימות"
+
+#: inc/admin/page-settings.php:149
+msgid "Page"
+msgstr "עמוד"
+
+#: inc/admin/page-settings.php:163
+msgid "By Users"
+msgstr "על ידי המשתמשים"
+
+#: inc/admin/page-settings.php:176
+msgid "Bulk Action"
+msgstr "עריכה מרובה"
+
+#: inc/admin/page-settings.php:179
+msgid "Edit All"
+msgstr "ערוך/י הכל"
+
+#: inc/admin/page-settings.php:194
+msgid "Comments"
+msgstr "הערות"
+
+#: inc/admin/page-settings.php:199
+msgid "No Tasks found."
+msgstr "לא נמצאו משימות."
+
+#: inc/admin/page-settings.php:199
+msgid "Please have a look at the video to understand the process."
+msgstr "עיין בסרטון כדי להבין את התהליך."
+
+#: inc/admin/page-settings.php:227
+msgid ""
+"The screenshot is for reference purposes only. Things may differ depending "
+"browsers/devices."
+msgstr ""
+"צילום המסך הוא לתת לך את מיקום המשימה על הדף. התצוגה עלולה להיות שונה לפי "
+"מכשיר/דפדפן."
+
+#: inc/admin/page-settings.php:229
+msgid "View Comments"
+msgstr "צפייה בהערות"
+
+#: inc/admin/page-settings.php:236
+msgid "Open Task's Page"
+msgstr "לפתיחת המשימה בעמוד"
+
+#: inc/admin/page-settings.php:237
+msgid "Task Attributes"
+msgstr "תכונות המשימה"
+
+#: inc/admin/page-settings.php:280
+msgid "Notify Users"
+msgstr "יידע משתמשים"
+
+#: inc/admin/page-settings.php:304
+msgid "Save Bulk Changes"
+msgstr "שמירת שינויים"
+
+#: inc/admin/page-settings.php:332
+msgid "Resync dashboard"
+msgstr "סנכרן את מרכז השליטה"
+
+#: inc/admin/page-settings.php:335
+msgid ""
+"The website should now be resynced/added to the dashboard. Please contact "
+"support in case they are not."
+msgstr "האתר סונכרן עם מרכז השליטה הכללי. צור/י קשר עם התמיכה אם הוא לא."
+
+#: inc/admin/page-settings.php:343
+msgid "Main Settings"
+msgstr "הגרות כלליות"
+
+#: inc/admin/page-settings.php:357
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: inc/admin/page-settings.php:358
+msgid ""
+"On this screen, you can manage different settings of the plugin. You can "
+"white label it to match your own branding, control which notifications are "
+"sent out to the users of this WordPress website and a few other options "
+"below this text."
+msgstr ""
+"על מסך זה ניתן לנהל את ההגדרות השונות של ההתקן. ניתן גם להתאים את המיתוג לזה "
+"שלך או של הלקוח/ה שלך, שליטה על ההתראות שנשלחות למשתמשים השונים ועוד..."
+
+#: inc/admin/page-settings.php:359
+msgid "You can also control the permissions of WP FeedBack PRO :"
+msgstr "ניתן לשלוט על ההרשאות של WP FeedBack PRO:"
+
+#: inc/admin/page-settings.php:359
+msgid ""
+" you can allow or disallow users to use certain functions, you can even turn "
+"on guest mode to allow any visitor to the website to use the tool without "
+"needing to long."
+msgstr ""
+"ניתן לאפשר או לא לאפשר להשתמש בחלק מהפונקציות, אפילו אפשר להדליק את \"מצב "
+"אורחים\" כדי לאפשר לכל מבקר באתר להשאיר תגובות ללא צורך להתחבר לאתר."
+
+#: inc/admin/page-settings.php:359
+msgid "To find these settings, go here."
+msgstr "כדי למצוא את ההגדרות האלה, בקר/י כאן."
+
+#: inc/admin/page-settings.php:359
+msgid "You will also see your license settings on this page."
+msgstr "הגדרות הרשיון גם יוצגו על עמוד זה."
+
+#: inc/admin/page-settings.php:364
+msgid "Enable WP FeedBack PRO on this website"
+msgstr "אפשר/י פעולה של WP FeedBack על אתר זה"
+
+#: inc/admin/page-settings.php:364
+msgid ""
+"This is used to disable the plugin on this website, to save you the trouble "
+"of having to deactivate it in your plugin settings."
+msgstr ""
+"זה נועד בשביל להדליק או לכבות את ההתקן על האתר הזה, כדי שלא יהיה צורך לכבות "
+"את ההתקן בעמוד ההתקנים של וורדפרס"
+
+#: inc/admin/page-settings.php:373
+msgid "Show task stickers by default"
+msgstr "הצג את מדבקות המשימות עם טעינת העמוד"
+
+#: inc/admin/page-settings.php:373
+msgid ""
+"If this is switched off, you will not see stickers unless you open the "
+"sidebar while on the front-end"
+msgstr ""
+"אם מצב זה כבוי, מדבקות המשימות לא יוצגו עם הטעינה, אלא אם לוחצים על אחד "
+"מכפתורי ההתקן בצד המסך."
+
+#: inc/admin/page-settings.php:383
+msgid "Remove backend commenting"
+msgstr "כיבוי משימות במסכי הניהול של וורדפרס"
+
+#: inc/admin/page-settings.php:383
+msgid ""
+"By default you can create tasks on the front end AND on the back end. By "
+"ticking this option on, users will not be able to create tasks on any of the "
+"WP admin screens."
+msgstr ""
+"כברירת מחדל, ניתן ליצור משימות בצד הקדמי ובצד האחורי של האתר. האופציה הזו "
+"תכבה את האפשרות ליצור משימות בצד האחורי של האתר, על כל מסכי הניהול של "
+"וורדפרס."
+
+#: inc/admin/page-settings.php:404
+msgid "Remove the data when removing the plugin"
+msgstr "הסרת כל המידע השמור עם הסרת ההתקן"
+
+#: inc/admin/page-settings.php:404
+msgid ""
+" If this is checked on (not recommended), all the tasks and comments will be "
+"deleted from the database once the plugin is deactivated and deleted."
+msgstr ""
+"אם זה מסומן (לא מומלץ), כל המשימות וההערות ימחקו ממסד הנתונים של האתר אם "
+"תכבו ותמחקו את ההתקן."
+
+#: inc/admin/page-settings.php:413
+msgid "Resync the Central Dashboard"
+msgstr "סנכרן את מרכז השליטה של PRO"
+
+#: inc/admin/page-settings.php:416
+msgid ""
+"Websites should now be resync / added now to the dashboard. Please contact "
+"support in case if does not."
+msgstr "האתר סונכרן עם מרכז השליטה הכללי. צור/י קשר עם התמיכה אם הוא לא."
+
+#: inc/admin/page-settings.php:424
+msgid "White Label"
+msgstr "תווית לבנה"
+
+#: inc/admin/page-settings.php:425
+msgid ""
+"Here you can rebrand WP FeedBack PRO by changing the main color and the logo."
+msgstr "כאן ניתן לשנות המיתוג של WP FeedBack PRO ע\"י שינוי הצבע הכללי והלוגו."
+
+#: inc/admin/page-settings.php:426
+msgid "You can "
+msgstr "את/ה יכול/ה "
+
+#: inc/admin/page-settings.php:426
+msgid "manage Global Settings across all of your websites"
+msgstr "ניהול הגדרות ומיתוג לכל האתרים שלך ממקום אחד."
+
+#: inc/admin/page-settings.php:426
+msgid ""
+"where your license is activated by visiting the general settings screen on "
+"your"
+msgstr "היכן שמופעל הרשיון שלך ע\"י ביקור בעמוד ההגדרות הכלליות על "
+
+#: inc/admin/page-settings.php:426
+msgid "Central Dashboard"
+msgstr "מרכז השליטה"
+
+#: inc/admin/page-settings.php:427
+msgid "Replace the WP FeedBack logo"
+msgstr "החלף/י את הלוגו שלנו"
+
+#: inc/admin/page-settings.php:427
+msgid ""
+"This will replace the logo in the top right of this page and the logo on the "
+"notification emails that are sent out."
+msgstr ""
+"זה יחליף את הלוגו בצד העליון של העמוד הזה ובהתראות המייל שנשלחות מההתקן."
+
+#: inc/admin/page-settings.php:428
+msgid "The image should be 180x45 px."
+msgstr "התמונה צריכה להיות בגודל 180x45 px."
+
+#: inc/admin/page-settings.php:431
+msgid "Upload Image"
+msgstr "העלאת תמונה"
+
+#: inc/admin/page-settings.php:439
+msgid "Change the logo link"
+msgstr "החלפת הקישור שמחובר ללוגו"
+
+#: inc/admin/page-settings.php:439
+msgid ""
+"This will replace the &quot;Powered by WP FeedBack&quot; link to your own."
+msgstr "זה יחליף את הלינק המשוייך ללוגו ברחבי ההתקן."
+
+#: inc/admin/page-settings.php:439
+msgid ""
+"This is great for upselling your clients or making them aware of additional "
+"services that you can provide."
+msgstr "זה מעולה בשביל להציע שירותים נוספים ללקוחות שלך."
+
+#: inc/admin/page-settings.php:443
+msgid "Change the main color"
+msgstr "שינוי הצבע הראשי של ההתקן"
+
+#: inc/admin/page-settings.php:443
+msgid ""
+"Where ever you see the blue, this option will change it to whatever colour "
+"you want!"
+msgstr "בכל מקום שמופיע הצבע הכחול שלנו, ישתנה הצבע לכל צבע שיבחר פה!"
+
+#: inc/admin/page-settings.php:443
+msgid "Replace the WP FeedBack  PRO blue with your own brand color."
+msgstr "החלף/י את הכחול הכהה שלנו עם צבע המותג שלך."
+
+#: inc/admin/page-settings.php:448
+msgid "Change the tutorial video"
+msgstr "שינוי סרטון ההדרכה הראשוני ללקוח"
+
+#: inc/admin/page-settings.php:448
+msgid ""
+"The video will be replaced on the frontend wizard as well as tasks screen on "
+"backend when empty."
+msgstr ""
+"הסרטון יוחלף על וויזרד ההתקנה הראשוני ועל מסך המשימות בצד האחורי של האתר, "
+"כאשר לא נוצרו משימות."
+
+#: inc/admin/page-settings.php:448
+msgid "Replace the WP FeedBack PRO video with your own tutorial video."
+msgstr "החלף/י את הסרטון הדרכה שלנו עם סרטון משלך"
+
+#: inc/admin/page-settings.php:458
+msgid "Remove mention of \"WP FeedBack\" from the plugin"
+msgstr "הסרת כל תזכורת של WP FeedBack מההתקן"
+
+#: inc/admin/page-settings.php:458
+msgid ""
+"Tick this setting to remove the name WP FeedBack. Add your own logo and "
+"change the logo link to ensure that the plugin is white labelled entirely."
+msgstr ""
+"סמן/י את האופציה הזו כדי להסיר את האזכור לשם שלנו. הוסף/י את הלוגו והלינק "
+"שלך כדי ליצור תחושה שההתקן שלך."
+
+#: inc/admin/page-settings.php:463
+msgid "Reset White Label Settings"
+msgstr "איפוס שינויי עיצוב"
+
+#: inc/admin/page-settings.php:472
+msgid "Notifications Settings"
+msgstr "הגדרות ההתראות"
+
+#: inc/admin/page-settings.php:480
+msgid "Sent from email address"
+msgstr "נשלח מכתובת המייל הזו"
+
+#: inc/admin/page-settings.php:480
+msgid "Set a \"From\" email address to send all notifications."
+msgstr "הגדרת כתובת האימייל שממנה יגיעו כל ההתראות של ההתקן."
+
+#: inc/admin/page-settings.php:485
+msgid "Send email notifications to the following address"
+msgstr "שליחת התראות נוספות לכתובות המייל הבאות"
+
+#: inc/admin/page-settings.php:486
+msgid ""
+"This option is in addition to the user emails. Seperate with comma for "
+"multiple addresses."
+msgstr ""
+"אופציה זו היא בנוסף להתראות המשתמשים (ע\"פ האימייל של המשתמש בוורדפרס). ניתן "
+"להוסיף כתובות מרובות על ידי הוספת פסיק בין כל כתובת אימייל."
+
+#: inc/admin/page-settings.php:492
+msgid ""
+"Ticking these on will display <b>them as an option on the front-end wizard "
+"for users to choose</b>. For example, if you don't want users to choose the "
+"option to send 24 hour reports, tick that off and it will not display on the "
+"front-end wizard."
+msgstr ""
+"סימון האופציות הנ\"ל יאפשר בחירה של ההתרעות לכל משתמש. למשל, אם אינך רוצה "
+"שמשתמשים יוכלו בכלל לבחור אם לקבל דו\"ח יומי, הסר/י את הסימון של  האופציה "
+"וההתרעה לא תפעל ולא תוצג כאופציה בשום מקום."
+
+#: inc/admin/page-settings.php:493
+msgid ""
+"If a user <b>does not</b> choose to receive any notifications and you'd like "
+"to change that, go to their user profile in the WordPress Admin and they can "
+"be ticked on there, you can view more info on notifications here <a "
+"href=\"https://wpfeedback.co/knowledge-base/faq/task-notifications/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"אם משתמש <b>לא בוחר</b> לקבל שום התרעה ואת/ה רוצה לשנות זאת, ביקור לפרופיל "
+"המשתמש פה בוורדפרס יאפשר שינוי התרעות לפי משתמש. <a href=\"https:"
+"//wpfeedback.co/knowledge-base/faq/task-notifications/\" target=\"_blank\">"
+"ניתן לקרוא עוד על איך ההתרעות עובדות כאן.</a>\n"
+
+#: inc/admin/page-settings.php:499 inc/admin/page-settings.php:506 
+#: inc/admin/page-settings.php:513 inc/admin/page-settings.php:520 
+#: inc/admin/page-settings.php:541 inc/admin/page-settings.php:548
+msgid ""
+"Allow users to choose this setting on the front-end wizard and inside their "
+"WordPress Profile."
+msgstr ""
+"אפשר/י למשתמשים מחוברים לבחור את האופציה הזו במדריך הראשוני (עם ביקור ראשון "
+"באתר) ובפרופיל האישי של המשתמש פה באתר."
+
+#: inc/admin/page-settings.php:570 inc/admin/page-settings.php:617
+msgid "Zapier Integration"
+msgstr "התתמשקות דרך Zapier"
+
+#: inc/admin/page-settings.php:580
+msgid "Support From WP FeedBack PRO"
+msgstr "תמיכה מאיתנו"
+
+#: inc/admin/page-settings.php:587
+msgid "Join the tribe on Facebook"
+msgstr "הצטרף לשבט שלנו בקבוצת הפייסבוק"
+
+#: inc/admin/page-settings.php:589
+msgid ""
+"Get faster answers by leveraging the community, we're there too of course!"
+msgstr ""
+"קבל/י תשובות בצורה יותר מהירה והעלה/י בקשות בקהילה שלנו, אנחנו גם שם כמובן!"
+
+#: inc/admin/page-settings.php:592
+msgid "Video walkthrough"
+msgstr "סרטון הדרכה"
+
+#: inc/admin/page-settings.php:610
+msgid "These should help"
+msgstr "לפני יצירת פנייה לתמיכה, אלה כנראה יעזרו"
+
+#: inc/admin/page-settings.php:612
+msgid "Licenses and domains"
+msgstr "רשיוניות ודומיינים"
+
+#: inc/admin/page-settings.php:613
+msgid ""
+"Can&#39;t validate the license? You probably didn&#39;t add the domain. "
+"Follow the steps above."
+msgstr "בעיות עם אימות הרשיון? אנא עקבו אחר הצעדים במאמר הזה."
+
+#: inc/admin/page-settings.php:618
+msgid ""
+"Step by step guide to integrating WP FeedBack PRO to 1500+ apps - Connect "
+"your workflow."
+msgstr ""
+"מדריך מקיף על איך לחבר את WP FeedBack עם 1,500+ תוכנות - חיבור תהליך העבודה "
+"שלך."
+
+#: inc/admin/page-settings.php:620
+msgid ""
+"Notifications\n"
+"                                issues"
+msgstr "בעיות עם התראות"
+
+#: inc/admin/page-settings.php:622
+msgid "Can&#39;t send emails? Getting too many emails? Answers inside."
+msgstr "לא מקבלים אימיילים? מקבלים יותר מדי אימיילים? התשובות פה בפנים."
+
+#: inc/admin/page-settings.php:624
+msgid "Partner with us"
+msgstr "הפוך/י לשותף/ה שלנו"
+
+#: inc/admin/page-settings.php:625
+msgid ""
+"If you&#39;re talking about us and send some peeps over - We wanna pay you!"
+msgstr "אם יוצא לך לדבר עלינו ולהפנות אלינו משתמשים - אנחנו רוצים לשלם לך!"
+
+#: inc/admin/page-settings.php:627
+msgid "Public Roadmap"
+msgstr "מפת דרכים ציבורית"
+
+#: inc/admin/page-settings.php:628
+msgid ""
+"If we&#39;re advocating for feedback we better lead by example. You&#39;re "
+"invited to request&nbsp;features."
+msgstr ""
+"אם כבר אנחנו מדברים על פידבק, כדאי שנעמוד מאחורי מה שאנחנו ממליצים! את/ה "
+"מוזמן/ת לבקש פיצ'רים ולהצביע על פיצ'רים שמשתמשים אחרים הוסיפו."
+
+#: inc/admin/page-settings.php:630
+msgid "Feeling stressed? (WP&amp;UP)"
+msgstr "העבודה מלחיצה אותך? (WP&UP)"
+
+#: inc/admin/page-settings.php:631
+msgid ""
+"Dealing with clients is hard(!) This amazing charity for the WP community is "
+"here to help you grow and relax."
+msgstr ""
+"טיפול בלקוחות זה קשה(!) העמותה המדהימה הזו נוצרה בשביל לתמוך בקהילת וורדפרס "
+"העולמית. הם ישמחו לעזור לך לגדול ולהרגע."
+
+#: inc/admin/page-settings.php:636
+msgid "Create a support ticket"
+msgstr "יצירת כרטיס תמיכה (אנגלית בלבד!)"
+
+#: inc/admin/page-settings.php:637
+msgid "We will reply via email in up to 24 hours (Weekdays)"
+msgstr "אנחנו נענה לך דרך אימייל תוך עד 24 שעות (שני עד שישי)"
+
+#: inc/admin/page-settings.php:637
+msgid "Support will only be given in English"
+msgstr "התמיכה תינתן רק באנגלית"
+
+#: inc/admin/page-settings.php:640
+msgid ""
+"We collected your name, email, license key and domain so all you need to do, "
+"is tell us what's\n"
+"                        up."
+msgstr ""
+"כבר אספנו את השם, אימייל, מספר רשיון ודומיין בשבילך כל שכל מה שנשאר לך לעשות "
+"זה רק לומר לנו מה קורה."
+
+#: inc/admin/page-settings.php:644
+msgid "Subject"
+msgstr "נושא"
+
+#: inc/admin/page-settings.php:647
+msgid "Message"
+msgstr "נושא"
+
+#: inc/admin/page-settings.php:652
+msgid "Name"
+msgstr "שם"
+
+#: inc/admin/page-settings.php:657
+msgid "Email"
+msgstr "אימייל"
+
+#: inc/admin/page-settings.php:667
+msgid "Insert Site Health Info"
+msgstr "הזנת מידע על \"בריאות האתר\" "
+
+#: inc/admin/page-settings.php:667
+msgid "(WP 5.2 and up)"
+msgstr "(אם WP 5.2 ומעלה מעודכן באתר)"
+
+#: inc/admin/page-settings.php:671
+msgid "Click here to get site health info"
+msgstr "לחצו פה כדי להעתיק את המידע על \"בריאות האתר\""
+
+#: inc/admin/page-settings.php:677
+msgid "Request Support"
+msgstr "בקשת תמיכה"
+
+#: inc/admin/page-settings.php:678
+msgid "Sorry! Your message was not sent, please try after some time."
+msgstr "אופס! ההודעה לא נשלחה, נסה לרענן את העמוד ולשלוח שוב."
+
+#: inc/admin/page-settings.php:679
+msgid ""
+"Your message was sent to the WP FeedBack PRO Team. Thanks for contacting us. "
+"We will reply to this email address shortly:"
+msgstr ""
+"ההודעה שלך נשלחה לצוות התמיכה של WP FeedBack PRO. אנחנו נענה בהקדם האפשרי "
+"(התמיכה היא באנגלית בלבד)."
+
+#: inc/admin/page-settings-graphics.php:67
+msgid "Graphic FeedBack"
+msgstr "פידבק גראפי"
+
+#: inc/admin/page-settings-graphics.php:67
+msgid "Graphics Created successfully"
+msgstr "פריט הגרפיקה נוצר בהצלחה"
+
+#: inc/admin/page-settings-graphics.php:72
+msgid "Add a new Graphic Item"
+msgstr "הוספת פריט גרפיקה חדש"
+
+#: inc/admin/page-settings-graphics.php:77
+msgid "Create Graphics"
+msgstr "יצירת פריט גרפיקה"
+
+#: inc/admin/page-settings-graphics.php:83
+msgid "Name your new graphic item"
+msgstr "שם או כותרת הפריט הגרפי"
+
+#: inc/admin/page-settings-graphics.php:83
+msgid "Please enter graphics title"
+msgstr "אנא הוסף/י שם או כותרת לפריט הגרפי"
+
+#: inc/admin/page-settings-graphics.php:88
+msgid "Give your new graphic a description"
+msgstr "תיאור פריט הגרפיקה"
+
+#: inc/admin/page-settings-graphics.php:88
+msgid "Please enter your graphics discription"
+msgstr "אנא הוסף/י תיאור לפריט הגרפי"
+
+#: inc/admin/page-settings-graphics.php:94
+msgid "Upload image"
+msgstr "העלאת תמונה"
+
+#: inc/admin/page-settings-graphics.php:102
+msgid "Start Collaborating"
+msgstr "בוא/י נתחיל"
+
+#: inc/frontend/wpf_login_modal.php:6
+msgid "Skip the login"
+msgstr "דילוג על מסך ההתחברות"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:16
+msgid "Hi "
+msgstr "היי "
+
+#: inc/frontend/wpf_frontend_initial_setup.php:16
+msgid ", Let's give feedback"
+msgstr ", בוא/י ניתן פידבק!"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:17
+msgid "To optimize your experience, which one describes you best?"
+msgstr "כדי לשפר את החוויה שלך, איזו אופציה מתארת אותך בצורה הכי טובה?"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:45
+msgid "Please select anyone"
+msgstr "בחר מישהו"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:48
+msgid "Notifications"
+msgstr "התראות"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:49
+msgid ""
+"Choose the emails you'd like to receive specifically just for you <br>"
+"(Recommended to keep as is)"
+msgstr "אילו התראות תרצה/י לקבל בעצמך? (מומלץ לא לשנות את מה שמסומן)"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:54
+msgid "One Last Step"
+msgstr "שלב אחרון"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:58
+msgid "How to give feedback"
+msgstr "איך לתת פידבק?"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:59
+msgid "Watch this short tutorial to get started"
+msgstr "צפה/י בסרטון הקצר כדי להתחיל"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:88
+msgid "Let's Start"
+msgstr "בואו נתחיל!"
+
+#. Name of the plugin
+msgid "WP FeedBack PRO"
+msgstr "משימות"
+
+#. Description of the plugin
+msgid "Client feedback in 1 click - WP FeedBack PRO"
+msgstr "הדרך הכי פשוטה לשתף פעולה עם לקוחות ומשתמשים על האתר"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpfeedback.co/"
+msgstr "https://wpfeedback.co/"
+
+#. Author of the plugin
+msgid "WP FeedBack"
+msgstr "WP FeedBack"

@@ -1,0 +1,1636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Feedback\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-21 14:09+0000\n"
+"PO-Revision-Date: 2021-10-26 14:25+0000\n"
+"Last-Translator: Czech Translator\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1"
+
+#: inc/admin/page-settings.php:463
+msgid ""
+" If this is checked on (not recommended), all the tasks and comments will be "
+"deleted from the database once the plugin is deactivated and deleted."
+msgstr ""
+"Pokud je toto zaškrtnuto (nedoporučuje se), všechny úkoly a komentáře budou "
+"odstraněny z databáze, jakmile je plugin deaktivován a smazán."
+
+#: inc/admin/page-settings.php:403
+#| msgid ""
+#| " you can allow or disallow users to use certain functions, you can even "
+#| "turn on guest mode to allow any visitor to the website to use the tool "
+#| "without needing to long."
+msgid ""
+" you can allow or disallow users to use certain functions, you can even turn "
+"on guest mode to allow any visitor to the website to use the tool without "
+"needing to login."
+msgstr ""
+" můžete uživatelům povolit nebo zakázat používání určitých funkcí, můžete "
+"dokonce zapnout režim hosta, který umožní každému návštěvníkovi webu "
+"používat nástroj bez nutnosti přihlášení."
+
+#: inc/admin/page-settings-permissions.php:106
+msgid "' target='_blank'>Please click here to get a new license key</a>"
+msgstr ""
+"' target='_blank'>Prosím kliknete zde pro získání nového licenčního klíče</a>"
+
+#: inc/admin/page-settings.php:780
+msgid "(WP 5.2 and up)"
+msgstr "(WP 5.2 a vyšší)"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:18
+msgid ", Let's give feedback"
+msgstr ", dejte nám zpětnou vazbu"
+
+#: inc/admin/page-settings.php:579
+msgid "/knowledge-base/faq/task-notifications/\" target=\"_blank\">here</a>."
+msgstr "/knowledge-base/faq/task-notifications/\" target=\"_blank\">tady</a>."
+
+#: inc/admin/wpf_backend_initial_setup.php:22
+msgid "1. Add your license key."
+msgstr "Přidejte svůj licenční klíč."
+
+#: inc/admin/wpf_backend_initial_setup.php:55
+msgid "2. Who should comment?"
+msgstr "2. Kdo může komentovat?"
+
+#: inc/admin/wpf_backend_initial_setup.php:107
+msgid "3. Choose notifications"
+msgstr "3. Zvolte notifikace"
+
+#: inc/admin/wpf_backend_initial_setup.php:83
+msgid "3. Global Settings"
+msgstr "3. Globální nastavení"
+
+#: inc/admin/wpf_backend_initial_setup.php:163
+msgid "4. All done!"
+msgstr "4. Vše hotovo!"
+
+#: inc/admin/wpf_backend_initial_setup.php:99
+#: inc/admin/wpf_backend_initial_setup.php:156
+msgid "<< Back"
+msgstr "<< Zpět"
+
+#: inc/wpf_popup_string.php:18
+msgid "A user must be selected to post a comment"
+msgstr "Pro přidání komentáře musí být vybrán uživatel"
+
+#: graphics/wpf_graphics_all_list.php:14
+msgid "Add a New Graphic"
+msgstr "Přidat novou grafiku"
+
+#: inc/admin/page-settings-graphics.php:73
+msgid "Add a new Graphic Item"
+msgstr "Přidat novou grafickou položku"
+
+#: inc/wpf_popup_string.php:17
+msgid "Add Comment"
+msgstr "Přidat komentář"
+
+#: inc/admin/page-settings-permissions.php:188
+msgid "Add User"
+msgstr "Přidat uživatele"
+
+#: inc/wpf_popup_string.php:37 inc/admin/page-settings.php:258
+msgid "Additional Information"
+msgstr "Dodatečné informace"
+
+#: inc/admin/page-settings.php:162
+msgid "Admin"
+msgstr "Administrace"
+
+#: inc/admin/page-settings-permissions.php:84
+#: inc/admin/page-settings-permissions.php:93
+msgid "Agency Dashboard Integration"
+msgstr "Integrace agenturní nástěnky"
+
+#: inc/admin/page-settings.php:133
+msgid "All Orphan tasks are restored"
+msgstr "Všechny nepřiřazené úkoly jsou obnoveny"
+
+#: inc/admin/wpf_admin_function.php:212 inc/admin/wpf_admin_function.php:292
+msgid "All Pages"
+msgstr "Všechny stránky"
+
+#: inc/admin/wpf_backend_initial_setup.php:77
+msgid "Allow guests to create tickets, without the need to log in to the site."
+msgstr "Umožněte hostům vytvířet tickety bez potřeby přihlášení na stránky."
+
+#: inc/admin/page-settings.php:582 inc/admin/page-settings.php:593
+#: inc/admin/page-settings.php:604 inc/admin/page-settings.php:615
+#: inc/admin/page-settings.php:626 inc/admin/page-settings.php:637
+#: inc/admin/page-settings.php:648 inc/admin/page-settings.php:659
+msgid ""
+"Allow users to choose this setting on the front-end wizard and inside their "
+"WordPress Profile."
+msgstr ""
+"Povolit uživatelům zvolit toto nastavení na front-end průvodci a uvnitř "
+"jejich profilů."
+
+#: inc/frontend/wpf_approve_page_modal.php:4
+#: inc/frontend/wpf_approve_page_modal.php:9
+msgid "Approve Page"
+msgstr "Schválit stránku"
+
+#: inc/wpf_popup_string.php:30
+msgid "Are you sure you want to delete?"
+msgstr "Jste si jisti, že to chcete smazat?"
+
+#. Author of the plugin
+msgid "Atarim"
+msgstr "Atarim"
+
+#. Name of the plugin
+msgid "Atarim - Client Interface Plugin"
+msgstr "Atarim - Client Interface Plugin"
+
+#. Description of the plugin
+msgid ""
+"Atarim is a client-focused agency management platform to help simplify "
+"collaboration and get things done fast."
+msgstr ""
+"Atarim je platforma pro správu agentur zaměřená na klienta, která pomáhá "
+"zjednodušit spolupráci a rychle dělat věci."
+
+#: inc/admin/page-settings-permissions.php:273 inc/admin/page-settings.php:253
+msgid "Auto Screenshot"
+msgstr "Auto Screenshot"
+
+#: inc/admin/page-settings.php:647 inc/admin/wpf_backend_initial_setup.php:145
+msgid "Auto send email notification for daily report"
+msgstr "Automaticky posílat emailové upozornění pro denní přehled"
+
+#: inc/admin/page-settings.php:658 inc/admin/wpf_backend_initial_setup.php:150
+msgid "Auto send email notification for weekly report"
+msgstr "Automaticky posílat emailové upozornění pro týdenní přehled"
+
+#: inc/frontend/wpf_responsive_page_modal.php:14
+msgid "Back to Standard View"
+msgstr "Zpět na standardní zobrazení"
+
+#: inc/wpf_popup_string.php:29
+msgid "Better to change the status to complete."
+msgstr "Lepší je změnit status úkolu na hotový."
+
+#: inc/wpf_email_notifications.php:130
+msgid "Browser"
+msgstr "Prohlížeč"
+
+#: inc/wpf_popup_string.php:24
+msgid "Browser:"
+msgstr "Prohlížeč"
+
+#: inc/admin/page-settings.php:191
+msgid "Bulk Action"
+msgstr "Hromadná akce"
+
+#: inc/wpf_popup_string.php:41
+msgid "Bulk Editing Tasks"
+msgstr "Hromadná editace úkolů"
+
+#: inc/wpf_email_notifications.php:135
+msgid "By "
+msgstr "od "
+
+#: inc/wpf_email_notifications.php:134 inc/wpf_popup_string.php:36
+msgid "by "
+msgstr "od "
+
+#: inc/admin/page-settings.php:451
+msgid ""
+"By default you can create tasks on the front end AND on the back end. By "
+"ticking this option on, users will not be able to create tasks on any of the "
+"WP admin screens."
+msgstr ""
+"Ve výchozím nastavení můžete vytvářet úkoly na front-endu a na back-endu. "
+"Zaškrtnutím této možnosti nebudou uživatelé moci vytvářet úkoly na žádné z "
+"obrazovek WP administrace."
+
+#: inc/admin/page-settings.php:178
+msgid "By Users"
+msgstr "Podle uživatele"
+
+#: inc/admin/page-settings-permissions.php:170
+msgid ""
+"Can do everything except: Choose and change status and urgency, Access the "
+"settings, support, integration and upgrade screens. Can only delete their "
+"own tickets. "
+msgstr ""
+"Může dělat vše kromě: Vybrat a měnit status a priority, Přistupovat k "
+"nastavení, podpoře, integraci a upgrade obrazovkám. Může mazat pouze své "
+"vlastní úkoly."
+
+#: inc/admin/page-settings-permissions.php:160
+msgid ""
+"Can do everything except: Choose and change status, access the settings, "
+"support and upgrade screens. Can only delete their own tickets."
+msgstr ""
+"Může dělat vše kromě: Vybrat a měnit status, přistupovat k nastavení, "
+"podpoře, integraci a upgrade obrazovkám. Může mazat pouze své vlastní úkoly."
+
+#: inc/admin/page-settings.php:735
+msgid "Can&#39;t send emails? Getting too many emails? Answers inside."
+msgstr ""
+"Nemůžete posílat emaily? Dostáváte přiliž mnoho emailů? Odpověď uvnitř."
+
+#: inc/admin/page-settings.php:726
+msgid ""
+"Can&#39;t validate the license? You probably didn&#39;t add the domain. "
+"Follow the steps above."
+msgstr ""
+"Nemůžete ověřit licenci? Pravděpodobně jste nepřidali doménu. Následujte "
+"kroky nahoře."
+
+#: inc/admin/page-settings.php:475
+msgid "Central Dashboard"
+msgstr "Centrální Nástěnka"
+
+#: inc/admin/page-settings.php:512
+msgid "Change the logo link"
+msgstr "Změnit odkaz na logo"
+
+#: inc/admin/page-settings.php:518 inc/admin/page-settings.php:525
+msgid "Change the main color"
+msgstr "Změnit hlavní barvu"
+
+#: inc/admin/page-settings.php:532
+msgid "Change the tutorial video"
+msgstr "Změnit výukové video"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:51
+msgid ""
+"Choose the emails you'd like to receive specifically just for you <br>"
+"(Recommended to keep as is)"
+msgstr ""
+"Vyberte e -maily, které chcete dostávat speciálně pro vás <br> (Doporučujeme "
+"ponechat tak, jak jsou)"
+
+#: inc/admin/page-settings.php:427
+msgid "Clear object cache while commenting and creating tasks"
+msgstr "Vymazat objektovou cache při komentování a vytváření úkolů"
+
+#: inc/admin/page-settings.php:784
+msgid "Click here to get site health info"
+msgstr "Klikněte zde pro získání informací o stavu webu"
+
+#: inc/wpf_email_notifications.php:122
+msgid "Click here to reply"
+msgstr "Klikněte zde pro odpověď"
+
+#: inc/wpf_email_notifications.php:136
+msgid "Click here to view the task"
+msgstr "Klepnutím sem zobrazíte úlohu"
+
+#: inc/admin/page-settings.php:551
+msgid ""
+"Click this button to revent the whitelabel options to their original state."
+msgstr ""
+"Klepnutím na toto tlačítko zabráníte tomu, aby možnosti bílého štítku byly v "
+"původním stavu."
+
+#: inc/admin/wpf_admin_function.php:205
+msgid "Click to give your feedback!"
+msgstr "Klikněte pro přidání zpětné vazby"
+
+#: inc/admin/page-settings-permissions.php:159
+#: inc/admin/page-settings-permissions.php:182
+msgid "Client (Website Owner) "
+msgstr "Klient (Vlastník webu)"
+
+#: inc/admin/page-settings-permissions.php:289
+msgid "Color Coded Stickers"
+msgstr "Barevně kódované samolepky"
+
+#: inc/admin/page-settings.php:418
+msgid ""
+"Compact mode removes the bottom bar from both the front-end & back-end, and "
+"moves the widget to the right side of your screen. You can still use comment "
+"mode and view the sidebar as normal, this mode is to give you the option for "
+"a more \"compact 😉\" experience."
+msgstr ""
+"Kompaktní režim odstraní spodní lištu z front-endu i back-endu a přesune "
+"widget na pravou stranu obrazovky. Stále můžete používat režim komentářů a "
+"zobrazovat postranní panel jako normálně, tento režim vám dává možnost "
+"„kompaktnějšího 😉“ zážitku."
+
+#: inc/wpf_email_notifications.php:107 inc/wpf_popup_string.php:14
+msgid "Complete"
+msgstr "Dokončené"
+
+#: graphics/wpf_graphics.php:337
+msgid "Completed"
+msgstr "Hotovo"
+
+#: inc/frontend/wpf_approve_page_modal.php:9
+msgid "Confirm and Approve Page"
+msgstr "Potvrdit a schválit stránku"
+
+#: inc/admin/page-settings.php:749
+msgid "Create a support ticket"
+msgstr "Vytvořit support ticket"
+
+#: inc/admin/page-settings-permissions.php:363
+msgid ""
+"Create a user for the client and assign it here to allow the client to "
+"comment in guest mode but still be assigned to the tickets for replies and "
+"notifications."
+msgstr ""
+"Vytvořte uživatele pro klienta a přiřaďte jej sem. Klient nyní může přidávat "
+"komentáře i v hostovaném řežimu a a bude přiřazen k úkolům pro odpovědi a "
+"notifikace."
+
+#: inc/admin/page-settings-graphics.php:78
+msgid "Create Graphics"
+msgstr "Vytvořit grafiku"
+
+#: inc/wpf_popup_string.php:10
+msgid "Critical"
+msgstr "Kritická"
+
+#: inc/wpf_popup_string.php:38 inc/admin/page-settings.php:267
+msgid "Custom Tags"
+msgstr "Vlastní štítek"
+
+#: inc/admin/page-settings-permissions.php:86
+msgid "Customisations"
+msgstr "Přizpůsobení"
+
+#: inc/admin/page-settings-permissions.php:156
+msgid "Customisations "
+msgstr "Přizpůsobení"
+
+#: inc/admin/page-settings.php:138
+msgid "Daily Report"
+msgstr "Denní přehled"
+
+#: inc/admin/page-settings.php:744
+msgid ""
+"Dealing with clients is hard(!) This amazing charity for the WP community is "
+"here to help you grow and relax."
+msgstr ""
+"Jednání s klienty je těžké (!) Tato úžasná charita pro komunitu WP je tu, "
+"aby vám pomohla růst a relaxovat."
+
+#: inc/admin/page-settings-permissions.php:88
+#: inc/admin/page-settings-permissions.php:344
+#| msgid "Default users"
+msgid "Default Users"
+msgstr "Výchozí uživatel"
+
+#: inc/admin/page-settings-permissions.php:258
+msgid "Delete"
+msgstr "Smazat"
+
+#: inc/wpf_popup_string.php:28 inc/admin/page-settings.php:312
+msgid "Delete ticket"
+msgstr "Smazat úkol"
+
+#: inc/frontend/wpf_responsive_page_modal.php:3
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/wpf_email_notifications.php:123
+msgid "Direct URL"
+msgstr "Příma URL"
+
+#: inc/admin/page-settings-permissions.php:306
+msgid "Display Number On Completed Task"
+msgstr "Zobrazit číslo na dokončeném úkolu"
+
+#: inc/wpf_email_notifications.php:127
+msgid "DIV Handle"
+msgstr "DIV"
+
+#: inc/wpf_email_notifications.php:128
+msgid "DIV handle"
+msgstr "DIV"
+
+#: inc/admin/page-settings.php:193
+msgid "Edit All"
+msgstr "Upravit vše"
+
+#: inc/admin/page-settings.php:770
+msgid "Email"
+msgstr "Email"
+
+#: inc/admin/page-settings.php:367 inc/admin/page-settings.php:577
+#| msgid "Email notifications"
+msgid "Email Notifications"
+msgstr "Emailová upozornění"
+
+#: inc/admin/page-settings.php:417
+msgid "Enable Atarim Compact Mode"
+msgstr "Povolit Atarim kompaktní mód"
+
+#: inc/admin/page-settings.php:406
+msgid "Enable Atarim's Client Interface Plugin on this website"
+msgstr "Povolit Atarim's Client Interface Plugin na tomto webu"
+
+#: inc/admin/page-settings.php:393
+msgid "Enable Global Settings"
+msgstr "Povolit globální nastavení"
+
+#: inc/admin/page-settings-permissions.php:177
+msgid ""
+"Enable or disable diffent functionality based on the Atarim user types to "
+"overwirte the default settings and customise your workflow."
+msgstr ""
+"Povolte nebo zakažte různé funkce založené na typech uživatelů Atarim, "
+"abyste přepsali výchozí nastavení a přizpůsobili svůj pracovní postup."
+
+#: inc/admin/page-settings-permissions.php:122
+#| msgid ""
+#| "Enabling this will make WP Feedback visible to everyone who visits your "
+#| "site and will allow them to create tasks and comment on existing ones."
+msgid ""
+"Enabling this will make Atarim Client Interface visible to everyone who "
+"visits your site and will allow them to create tasks and comment on existing "
+"ones."
+msgstr ""
+"Pokud to povolíte, zviditelní se WP Feedback každému, kdo navštíví váš web, "
+"a umožní jim vytvářet úkoly a komentovat stávající."
+
+#: inc/admin/page-settings.php:394
+msgid ""
+"Everything you see on this screen can be managed globally from within your "
+"Agency Dashboard. Enable this option to pull your General Settings, Branding "
+"options and Notification options from the Global Settings panel."
+msgstr ""
+"Vše, co vidíte na této obrazovce, lze globálně spravovat z vašeho řídicího "
+"panelu agentury. Povolte tuto možnost, chcete-li z panelu Globální nastavení "
+"vytáhnout obecná nastavení, možnosti brandingu a možnosti oznámení."
+
+#: inc/admin/page-settings.php:743
+msgid "Feeling stressed? (WP&amp;UP)"
+msgstr "Cítíte se stresovaní? (WP&UP)"
+
+#: inc/admin/wpf_admin_function.php:303
+msgid "Filter By Priority"
+msgstr "Filtrovat dle priority"
+
+#: inc/admin/wpf_admin_function.php:200
+msgid "Filter by Priority:"
+msgstr "Filtrovat dle priority:"
+
+#: inc/admin/wpf_admin_function.php:219
+msgid "Filter By Status"
+msgstr "Filtrovat dle statusu"
+
+#: inc/admin/wpf_admin_function.php:198
+msgid "Filter by Status:"
+msgstr "Filtrovat dle statusu:"
+
+#: inc/admin/page-settings.php:153
+msgid "Filter Tasks"
+msgstr "Filtrovat úkoly"
+
+#: inc/admin/wpf_backend_initial_setup.php:23
+msgid "Found on your purchase confirmation email or within"
+msgstr "Nalezeno v e-mailu s potvrzením nákupu nebo v něm."
+
+#: inc/admin/wpf_admin_function.php:213 inc/admin/wpf_admin_function.php:293
+msgid "Frontend"
+msgstr "Frontend"
+
+#: inc/wpf_popup_string.php:32 inc/admin/page-settings.php:160
+#: inc/admin/page-settings.php:188 inc/admin/wpf_admin_function.php:281
+msgid "General"
+msgstr "Všeobecné"
+
+#: inc/admin/page-settings.php:364 inc/admin/page-settings.php:401
+msgid "General Settings"
+msgstr "Obecné nastavení"
+
+#: inc/wpf_popup_string.php:43
+msgid "General Task: Choose a page/post to comment"
+msgstr "Všeobecný úkol: Vyberte stránku nebo příspěvek pro okomentování"
+
+#: inc/admin/page-settings.php:708
+msgid ""
+"Get faster answers by leveraging the community, we're there too of course!"
+msgstr ""
+"Získejte rychlejší odpovědi využíváním komunity, my jsme tu samozřejmě také!"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid ""
+"Give it a few seconds. <br>Then, refresh the page to see the task in the new "
+"position."
+msgstr ""
+"Dejte tomu pár sekund. <br> Potom obnovte stránku abyste viděli úkol na nové "
+"pozici."
+
+#: inc/admin/page-settings-graphics.php:89
+msgid "Give your new graphic a description"
+msgstr "Dejte své nové grafice popis"
+
+#: inc/admin/page-settings.php:327 inc/admin/page-settings.php:363
+#: inc/admin/page-settings.php:390
+msgid "Global Settings"
+msgstr "Globální nastavení"
+
+#: inc/admin/wpf_backend_initial_setup.php:18
+#, php-format
+msgid "Good to have you here %s! There are only 4 steps."
+msgstr "Jsem rád, že jsi tady %s! Jsou tu pouze 4 kroky."
+
+#: inc/admin/page-settings-graphics.php:68
+msgid "Graphic FeedBack"
+msgstr "Grafický FeedBack"
+
+#: inc/wpf_popup_string.php:33 inc/admin/page-settings-graphics.php:32
+#: inc/admin/page-settings-permissions.php:38 inc/admin/page-settings.php:83
+#: inc/admin/page-settings.php:166
+msgid "Graphics"
+msgstr "Grafika"
+
+#: inc/admin/page-settings-graphics.php:68
+msgid "Graphics Created successfully"
+msgstr "Grafika vytvořena úspěšně"
+
+#: inc/admin/page-settings-permissions.php:185
+msgid "Guest "
+msgstr "Host"
+
+#: inc/admin/page-settings-permissions.php:121
+msgid "Guest Mode"
+msgstr "Režim hosta"
+
+#: inc/wpf_email_notifications.php:98
+msgid "has changed"
+msgstr "se změnil"
+
+#: inc/admin/page-settings.php:474
+msgid ""
+"Here you can rebrand Atarim Client Interface by changing the main color and "
+"the logo."
+msgstr ""
+"Zde můžete změnit značku Atarim Client Interface změnou hlavní barvy a loga."
+
+#: inc/frontend/wpf_frontend_initial_setup.php:18
+msgid "Hi "
+msgstr "Ahoj "
+
+#: inc/wpf_popup_string.php:9
+msgid "High"
+msgstr "Vysoká"
+
+#: inc/admin/page-settings-permissions.php:118
+msgid "Hold down the CTRL key to choose multiple options."
+msgstr "Držte CTRL pro zvolení více možností."
+
+#: inc/frontend/wpf_frontend_initial_setup.php:60
+msgid "How to give feedback"
+msgstr "Jak dát zpětnou vazbu"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://atarim.io/"
+msgstr "https://atarim.io/"
+
+#: inc/admin/page-settings-permissions.php:116
+#| msgid ""
+#| "If a user role is not selected, they will not be able to see WP Feedback "
+#| "on the front-end, they will still be able to access the plugin settings "
+#| "though unless you restrict this someone else."
+msgid ""
+"If a user role is not selected, they will not be able to see Atarim Client "
+"Interface on the front-end, they will still be able to access the plugin "
+"settings though unless you restrict this someone else."
+msgstr ""
+"Pokud není vybrána role uživatele, nebudou moci vidět  WP Feedback na front-"
+"endu, ale stále budou mít přístup k nastavení pluginu, pokud je ovšem jinak "
+"neomezíte."
+
+#: inc/admin/page-settings.php:439
+msgid ""
+"If this is switched off, you will not see stickers unless you open the "
+"sidebar while on the front-end"
+msgstr ""
+"Pokud je tato funkce vypnutá, neuvidíte nálepky, dokud neotevřete postranní "
+"panel na front-endu"
+
+#: inc/admin/page-settings.php:741
+msgid ""
+"If we&#39;re advocating for feedback we better lead by example. You&#39;re "
+"invited to request&nbsp;features."
+msgstr ""
+"Pokud se zasazujeme o zpětnou vazbu, měli bychom jít příkladem. Nebojte se "
+"požádat o nové funkce."
+
+#: inc/wpf_email_notifications.php:142
+msgid ""
+"If you are not the intended recipient of this email, you must neither take "
+"any action based upon its contents nor copy or show it to anyone."
+msgstr ""
+"Pokud nejste zamýšleným příjemcem tohoto e-mailu, nesmíte podniknout žádné "
+"kroky na základě jeho obsahu ani kopírovat nebo ukazovat jeho obsah nikomu."
+
+#: inc/admin/page-settings.php:428
+msgid ""
+"If you have object caching enabled on this website, you can tick this on to "
+"clear the cache when a comment or task is created. This may affect the speed "
+"of the website."
+msgstr ""
+"Pokud máte na tomto webu povolenou objektovou cache, můžete toto zaškrtnout, "
+"chcete-li vymazat cache, když je vytvořen komentář nebo úkol. To může "
+"ovlivnit rychlost webu."
+
+#: inc/admin/page-settings.php:738
+msgid ""
+"If you&#39;re talking about us and send some peeps over - We wanna pay you!"
+msgstr "Pokud o nás mluvíš a pošleš nám pár lidí - chceme ti zaplatit!"
+
+#: inc/wpf_popup_string.php:12
+msgid "In Prog"
+msgstr "Probíhá"
+
+#: inc/wpf_email_notifications.php:105
+msgid "In Progress"
+msgstr "Probíhá"
+
+#: inc/wpf_email_notifications.php:104
+msgid "In progress"
+msgstr "Pracujeme se na tom"
+
+#: inc/admin/page-settings-permissions.php:244
+msgid "Information"
+msgstr "Informace"
+
+#: inc/admin/page-settings.php:780
+msgid "Insert Site Health Info"
+msgstr "Vložit informace o stavu webu"
+
+#: inc/admin/page-settings-graphics.php:48
+#: inc/admin/page-settings-permissions.php:54 inc/admin/page-settings.php:97
+msgid "Integrate"
+msgstr "Integrace"
+
+#: inc/wpf_email_notifications.php:96
+msgid "is done"
+msgstr "je hotový"
+
+#: inc/wpf_email_notifications.php:101
+msgid "It is now marked as"
+msgstr "Nyní je označen jako"
+
+#: inc/admin/page-settings.php:706
+msgid "Join the tribe on Facebook"
+msgstr "Připojte se k nám na Facebooku"
+
+#: inc/wpf_popup_string.php:34
+msgid "just now"
+msgstr "právě teď"
+
+#: inc/admin/page-settings-permissions.php:322
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: inc/wpf_popup_string.php:16
+msgid "Leave a comment..."
+msgstr "Zanechat komentář"
+
+#: inc/admin/wpf_backend_initial_setup.php:17
+msgid "Let's get you up and running"
+msgstr "Pojďme na to"
+
+#: inc/admin/wpf_backend_initial_setup.php:175
+msgid "Let's rock"
+msgstr "Rozjeďme to"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:76
+msgid "Let's Start"
+msgstr "Začněme"
+
+#: inc/admin/page-settings.php:725
+msgid "Licenses and domains"
+msgstr "Licence a domény"
+
+#: inc/wpf_email_notifications.php:133 inc/wpf_popup_string.php:7
+msgid "Low"
+msgstr "Nízká"
+
+#: inc/admin/page-settings.php:355
+msgid "Main Settings"
+msgstr "Hlavní nastavení"
+
+#: inc/admin/page-settings.php:475
+msgid "manage Global Settings across all of your websites"
+msgstr "Spravujte Globální nastavení na všech svých webech"
+
+#: inc/frontend/wpf_approve_page_modal.php:7
+msgid "Mark all tasks on this page as complete"
+msgstr "Označit všechny stránky na této stránce jako hotové"
+
+#: graphics/wpf_graphics.php:334
+msgid "Mark as complete"
+msgstr "Označit jako hotové"
+
+#: inc/wpf_popup_string.php:8
+msgid "Medium"
+msgstr "Střední"
+
+#: inc/admin/page-settings.php:760
+msgid "Message"
+msgstr "Zpráva"
+
+#: inc/frontend/wpf_responsive_page_modal.php:5
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/admin/page-settings.php:765
+msgid "Name"
+msgstr "Jméno"
+
+#: inc/admin/page-settings-graphics.php:84
+msgid "Name your new graphic item"
+msgstr "Pojmenujte vaší novou grafickou položku"
+
+#: inc/admin/wpf_backend_initial_setup.php:101
+#: inc/admin/wpf_backend_initial_setup.php:158
+msgid "Next >>"
+msgstr "Další >>"
+
+#: inc/admin/page-settings.php:222
+msgid "No Tasks found."
+msgstr "Žádný úkol nenalezen"
+
+#: inc/admin/page-settings.php:366
+msgid "Notification Settings"
+msgstr "Nastavení notifikací"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:50
+msgid "Notifications"
+msgstr "Upozornění"
+
+#: inc/admin/page-settings.php:733
+msgid ""
+"Notifications\n"
+"                                issues"
+msgstr "Problémy s oznámeními"
+
+#: inc/admin/page-settings.php:557
+msgid "Notifications Settings"
+msgstr "Nastavení upozornění"
+
+#: inc/admin/page-settings.php:293
+msgid "Notify Users"
+msgstr "Upozornit uživatele"
+
+#: inc/admin/page-settings.php:402
+msgid ""
+"On this screen, you can manage different settings of the plugin. You can "
+"white label it to match your own branding, control which notifications are "
+"sent out to the users of this WordPress website and a few other options "
+"below this text."
+msgstr ""
+"Na této obrazovce můžete spravovat různá nastavení pluginu. Můžete jej "
+"označit bílým štítkem, aby odpovídal vaší vlastní značce, ovládat, která "
+"oznámení se rozesílají uživatelům tohoto webu WordPress, a několik dalších "
+"možností pod tímto textem."
+
+#: inc/frontend/wpf_frontend_initial_setup.php:56
+msgid "One Last Step"
+msgstr "Jeden poslední krok"
+
+#: inc/wpf_email_notifications.php:121
+msgid "Open"
+msgstr "Otevřený"
+
+#: inc/wpf_popup_string.php:11
+msgid "Open Task"
+msgstr "Otevřený Úkol"
+
+#: inc/wpf_email_notifications.php:103
+msgid "Open task"
+msgstr "Otevřený úkol"
+
+#: inc/admin/page-settings.php:217
+#| msgid "Open Task's Page"
+msgid "Open Task Page"
+msgstr "Otevřít stránku úkolu"
+
+#: inc/wpf_email_notifications.php:124
+msgid "Original Request"
+msgstr "Původní požadavek"
+
+#: inc/admin/page-settings-permissions.php:169
+#: inc/admin/page-settings-permissions.php:184
+msgid "Others "
+msgstr "Ostatní"
+
+#: inc/admin/page-settings.php:164
+msgid "Page"
+msgstr "Stránka"
+
+#: inc/frontend/wpf_approve_page_modal.php:15
+msgid "Page Approved"
+msgstr "Stránka schválena"
+
+#: inc/admin/page-settings.php:737
+msgid "Partner with us"
+msgstr "Spolupracujte s námi"
+
+#: inc/wpf_popup_string.php:13
+msgid "Pending"
+msgstr "Čekjící"
+
+#: inc/wpf_email_notifications.php:106
+msgid "Pending Review"
+msgstr "Čeká na schválení"
+
+#: inc/admin/page-settings-graphics.php:42
+#: inc/admin/page-settings-permissions.php:48
+#: inc/admin/page-settings-permissions.php:76 inc/admin/page-settings.php:92
+msgid "Permissions"
+msgstr "Práva"
+
+#: inc/admin/page-settings-permissions.php:85
+#: inc/admin/page-settings-permissions.php:113
+msgid "Permissions Settings"
+msgstr "Nastavení oprávnění"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid ""
+"Place the task anywhere on the page to pinpoint the location of the request."
+msgstr "Umístěním úkolu kamkoli na stránku připnete požadavek na dané místo."
+
+#: inc/wpf_email_notifications.php:143
+msgid ""
+"Please contact the sender if you believe you have received this email in "
+"error."
+msgstr ""
+"Prosím kontaktujte odesílatele pokud věříte, že jste obdrželi tento email "
+"omylem"
+
+#: inc/admin/page-settings-graphics.php:84
+msgid "Please enter graphics title"
+msgstr "Prosím vložte titulek ke grafice"
+
+#: inc/admin/page-settings-graphics.php:89
+msgid "Please enter your graphics discription"
+msgstr "Prosím vložte popis sví grafiky"
+
+#: inc/admin/page-settings.php:222
+msgid "Please have a look at the video to understand the process."
+msgstr "Pro pochopení procesu se prosím podívejte na video."
+
+#: inc/wpf_popup_string.php:19
+msgid "Please post your comment before performing this action"
+msgstr "Před provedením této akce napište svůj komentář"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:47
+msgid "Please select anyone"
+msgstr "Prosím zvolte někoho"
+
+#: inc/wpf_email_notifications.php:117
+msgid "Post"
+msgstr "Příspěvek"
+
+#: inc/wpf_email_notifications.php:115
+msgid "Post Name"
+msgstr "Název příspěvku"
+
+#: inc/wpf_email_notifications.php:116
+msgid "Post name"
+msgstr "Název příspěvku"
+
+#: inc/wpf_email_notifications.php:100
+msgid "Posted on"
+msgstr "Vloženo na"
+
+#: inc/wpf_email_notifications.php:132
+msgid "Powered by"
+msgstr "Powered by"
+
+#: inc/wpf_email_notifications.php:118
+#: inc/admin/page-settings-permissions.php:202
+msgid "Priority"
+msgstr "Priorita"
+
+#: inc/admin/page-settings.php:740
+msgid "Public Roadmap"
+msgstr "Veřejná Roadmapa"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid "Pushed to Media Folder."
+msgstr "Odeslat do složky médií."
+
+#: inc/admin/wpf_admin_function.php:205
+msgid "Remap task"
+msgstr "Přemapovat úkol"
+
+#: inc/wpf_popup_string.php:44
+msgid "Remap the task to other element"
+msgstr "Přemapovat úkol na jiný element"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid "Remapping task...."
+msgstr "Přemapovat úkol...."
+
+#: inc/admin/page-settings-permissions.php:89 inc/admin/page-settings.php:382
+msgid ""
+"Remember to Save Changes at the bottom of this screen to apply any changes."
+msgstr ""
+"Nezapomeňte uložit změny ve spodní části této obrazovky, abyste použili "
+"jakékoli změny."
+
+#: inc/admin/page-settings.php:450
+msgid "Remove backend commenting"
+msgstr "Zakázat komentování na backendu"
+
+#: inc/wpf_popup_string.php:40
+msgid "Remove Login Parameter"
+msgstr "Odstranit Login parametr"
+
+#: inc/admin/page-settings.php:539
+msgid "Remove mention of \"Atarim\" from the plugin"
+msgstr "Odstranit zmíňku o \"Atarim\" z pluginu"
+
+#: inc/admin/page-settings.php:462
+msgid "Remove the data when removing the plugin"
+msgstr "smazat data když je plugin odstraněn"
+
+#: inc/admin/page-settings.php:495
+msgid "Replace the Atarim icon"
+msgstr "Nahradit Atarim ikonu"
+
+#: inc/admin/page-settings.php:478
+msgid "Replace the Atarim logo"
+msgstr "Nahradit Atarim logo"
+
+#: inc/admin/page-settings.php:533
+msgid ""
+"Replace the Default Atarim client tutorial video with your own tutorial "
+"video."
+msgstr "Nahradit základní Atarim tutoriál video svým vlastním videem."
+
+#: inc/admin/page-settings.php:790
+msgid "Request Support"
+msgstr "Požádat o podporu"
+
+#: inc/admin/page-settings.php:550 inc/admin/page-settings.php:552
+msgid "Reset White Label Settings"
+msgstr "Resetovat White Label nastavení"
+
+#: inc/wpf_popup_string.php:23
+msgid "Resolution:"
+msgstr "Rozlišení"
+
+#: inc/admin/page-settings.php:147
+msgid "Restore Orphan Tasks"
+msgstr "Obnovit nepřiřazené úkoly"
+
+#: inc/admin/page-settings.php:374
+#| msgid "Resync the Central Dashboard"
+msgid "Resync the Agency Dashboard"
+msgstr "Resynchronizovat centrální nástěnku"
+
+#: inc/admin/page-settings.php:316
+msgid "Save Bulk Changes"
+msgstr "Uložit hromadné změny"
+
+#: inc/admin/page-settings-permissions.php:379 inc/admin/page-settings.php:676
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: inc/admin/page-settings-permissions.php:230
+msgid "Screenshot"
+msgstr "Screenshot"
+
+#: inc/wpf_popup_string.php:15
+msgid "Screenshot The Current View"
+msgstr "Vyfotit aktuální zobrazení"
+
+#: inc/wpf_email_notifications.php:129
+msgid "Screensize"
+msgstr "Velikost obrazovky"
+
+#: inc/admin/page-settings.php:131 inc/admin/wpf_admin_function.php:225
+#: inc/admin/wpf_admin_function.php:246 inc/admin/wpf_admin_function.php:305
+#: inc/admin/wpf_admin_function.php:326
+msgid "Search by task title"
+msgstr "Hledat podle titulku úkolu"
+
+#: inc/admin/page-settings-permissions.php:349
+#: inc/admin/page-settings-permissions.php:365
+msgid "select"
+msgstr "Zvolit"
+
+#: inc/admin/page-settings.php:592 inc/admin/wpf_backend_initial_setup.php:120
+msgid "Send email notification for every new comment"
+msgstr "Odeslat e-mailové upozornění pro každý nový komentář"
+
+#: inc/admin/page-settings.php:581 inc/admin/wpf_backend_initial_setup.php:115
+msgid "Send email notification for every new task"
+msgstr "Odeslat e-mailové upozornění pro každý nový úkol"
+
+#: inc/admin/page-settings.php:614 inc/admin/wpf_backend_initial_setup.php:130
+msgid "Send email notification for every status change"
+msgstr "Odeslat e-mailové upozornění pro každou změnu statusu"
+
+#: inc/admin/page-settings.php:625 inc/admin/wpf_backend_initial_setup.php:135
+msgid "Send email notification for last 24 hours report"
+msgstr "Odeslat e-mailové upozornění pro poslední 24 hodinový přehled"
+
+#: inc/admin/page-settings.php:636 inc/admin/wpf_backend_initial_setup.php:140
+msgid "Send email notification for last 7 days report"
+msgstr "Odeslat e-mailové upozornění pro poslední 7 denní přehled"
+
+#: inc/admin/page-settings.php:603 inc/admin/wpf_backend_initial_setup.php:125
+msgid "Send email notification when a task is marked as complete"
+msgstr "Send email notification when a task is marked as complete"
+
+#: inc/admin/page-settings.php:571
+msgid "Send email notifications to the following address"
+msgstr "Poslat emailové upozornění na následující adresy"
+
+#: inc/wpf_popup_string.php:35
+msgid "Send Message"
+msgstr "Poslat zprávu"
+
+#: inc/admin/page-settings.php:565
+msgid "Sent from email address"
+msgstr "Poslat z emailové adresy"
+
+#: inc/admin/page-settings.php:566
+msgid "Set a \"From\" email address to send all notifications."
+msgstr "Nastavit \"Od\" emailovou adresu pro posílání všech upozornění"
+
+#: inc/admin/page-settings-graphics.php:37
+#: inc/admin/page-settings-permissions.php:43 inc/admin/page-settings.php:87
+msgid "Settings"
+msgstr "Nastavení"
+
+#: inc/wpf_popup_string.php:39
+msgid "Share Task Link :"
+msgstr "Sdílet odkaz úkolu"
+
+#: inc/admin/page-settings.php:438
+msgid "Show task stickers by default"
+msgstr "Ve výchozím nastavení zobrazovat nálepky úkolů"
+
+#: inc/frontend/wpf_login_modal.php:6
+msgid "Skip the login"
+msgstr "Přeškočit přihlášení"
+
+#: inc/admin/wpf_backend_initial_setup.php:179
+msgid "Skip Wizard"
+msgstr "Přeskočit průvodce"
+
+#: inc/admin/page-settings.php:791
+msgid "Sorry! Your message was not sent, please try after some time."
+msgstr "Omlouváme se! Vaše zpráva nebyla poslaná, prosím zkuste to později."
+
+#: inc/admin/page-settings-graphics.php:115
+msgid "Start Collaborating"
+msgstr "Začněte spolupracovat"
+
+#: inc/wpf_email_notifications.php:119
+#: inc/admin/page-settings-permissions.php:216
+msgid "Status"
+msgstr "Status"
+
+#: inc/admin/page-settings.php:731
+#| msgid ""
+#| "Step by step guide to integrating WP FeedBack PRO to 1500+ apps - Connect "
+#| "your workflow."
+msgid ""
+"Step by step guide to integrating Atarim to 1500+ apps - Connect your "
+"workflow."
+msgstr ""
+"Průvodce krok za krokem k integraci WP FeedBack PRO do více než 1500 "
+"aplikací – Připojte svůj pracovní postup."
+
+#: inc/admin/page-settings-permissions.php:133
+msgid "Stop comments for admins"
+msgstr "Zastavit komentáře pro adminy"
+
+#: inc/admin/page-settings-permissions.php:134
+msgid "Stop comments for admins on front end."
+msgstr "Zastavit komentování pro adminy na front endu"
+
+#: inc/admin/page-settings.php:757
+msgid "Subject"
+msgstr "Předmět"
+
+#: inc/admin/page-settings-permissions.php:165
+msgid "Super admin – he has full capabilities for all the plugin’s functions. "
+msgstr "Super admin - má plná práva na všechny funkce pluginu. "
+
+#: inc/admin/page-settings-graphics.php:54
+#: inc/admin/page-settings-permissions.php:60 inc/admin/page-settings.php:102
+msgid "Support"
+msgstr "Podpora"
+
+#: inc/admin/page-settings.php:699
+msgid "Support From Atarim"
+msgstr "Podpora od Atarim"
+
+#: inc/admin/page-settings.php:750
+msgid "Support will only be given in English"
+msgstr "Podpora je poskytována pouze v angličtině"
+
+#: inc/frontend/wpf_responsive_page_modal.php:4
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/wpf_email_notifications.php:114
+msgid "Task"
+msgstr "Úkoly"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid "Task already exist for this element."
+msgstr "Úkol již existuje pro tento prvek."
+
+#: inc/admin/page-settings.php:252
+msgid "Task Attributes"
+msgstr "Atributy úkolu"
+
+#: inc/wpf_email_notifications.php:113
+msgid "Task ID"
+msgstr "ID uživatele"
+
+#: inc/wpf_popup_string.php:27
+msgid "Task ID:"
+msgstr "ID úkolu"
+
+#: inc/admin/page-settings.php:170 inc/admin/page-settings.php:274
+#: inc/admin/page-settings.php:303
+msgid "Task Status"
+msgstr "Status úkolu"
+
+#: inc/admin/page-settings.php:156
+msgid "Task Types"
+msgstr "Typ úkolu"
+
+#: inc/admin/page-settings.php:175 inc/admin/page-settings.php:280
+#: inc/admin/page-settings.php:307
+msgid "Task Urgency"
+msgstr "Priorita úkolu"
+
+#: inc/admin/page-settings-graphics.php:28
+#: inc/admin/page-settings-permissions.php:34 inc/admin/page-settings.php:80
+msgid "Tasks"
+msgstr "Úkol"
+
+#: inc/admin/page-settings.php:128
+msgid "Tasks Center"
+msgstr "Centrum úkolů"
+
+#: inc/wpf_email_notifications.php:112
+msgid "Tasks completed this week"
+msgstr "Úkoly dokončení tento týden"
+
+#: inc/wpf_email_notifications.php:110
+msgid "Tasks completed today"
+msgstr "Úkoly hotový dnes"
+
+#: inc/wpf_popup_string.php:42 inc/admin/page-settings.php:187
+msgid "Tasks Found"
+msgstr "Nalezené úkoly"
+
+#: inc/wpf_email_notifications.php:109
+msgid "Tasks summary for the day"
+msgstr "Přehled úkolu pro dnešek"
+
+#: inc/wpf_email_notifications.php:111
+msgid "Tasks summary for the week"
+msgstr "Přehled úkolu pro týden"
+
+#: inc/admin/page-settings-permissions.php:362
+msgid "The client"
+msgstr "Klient"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid ""
+"The file was added to the website's media folder, you can now use it from "
+"the there."
+msgstr ""
+"Soubor byl přidán do složky médií webu, odtud jej nyní můžete používat."
+
+#: inc/admin/page-settings.php:480
+msgid "The image should be 180x45 px. Allowed jpg, png."
+msgstr "Obrázek by měl mít 180x45 px. Povolené jpg, png."
+
+#: inc/admin/page-settings.php:497
+msgid "The image should be 50px X 50px. Allowed jpg, png."
+msgstr "Obrázek by měl mít rozměry 50 x 50 pixelů. Povolené jpg, png."
+
+#: inc/admin/page-settings-permissions.php:97
+msgid ""
+"The plugin will not work unless you insert a valid license key and hit Save "
+"Changes at the bottom of this screen."
+msgstr ""
+"Plugin nebude fungovat, pokud nevložíte platný licenční klíč a nekliknete na "
+"Uložit změny ve spodní části této obrazovky."
+
+#: inc/admin/wpf_backend_initial_setup.php:51
+msgid "The plugin will not work until you complete this step."
+msgstr "Plugin nebude fungovat dokud nedokončíte tento krok."
+
+#: inc/admin/wpf_backend_initial_setup.php:56
+msgid "The user roles that are allowed to create tickets and give feedback."
+msgstr "Uživatelské role, které mohou vytvářet tickety a dávat zpětnou vazbu."
+
+#: inc/admin/page-settings.php:534
+msgid ""
+"The video will be replaced on the frontend wizard as well as tasks screen on "
+"backend when empty."
+msgstr ""
+"Video bude nahrazeno na frontend průvodci stejně jako na obrazovce úkolů "
+"když je prázdná."
+
+#: inc/admin/page-settings-permissions.php:346
+msgid "The website builder"
+msgstr "Tvůrce webu"
+
+#: inc/admin/page-settings-permissions.php:347
+msgid ""
+"The website builder will add this user to all tasks by default, allowing the "
+"client to skip the \"choose a user\" tab when creating a task. It will also "
+"be used for the Auto Login option when coming from the Agency Dashboard."
+msgstr ""
+"Tvůrce webu tohoto uživatele ve výchozím nastavení přidá do všech úloh, což "
+"klientovi umožní při vytváření úkolu přeskočit kartu „vybrat uživatele“. "
+"Bude také použit pro možnost automatického přihlášení při příchodu z "
+"hlavního panelu agentury."
+
+#: inc/wpf_popup_string.php:22
+msgid "The website server didn't respond to the file upload, please try again"
+msgstr "Server webu neodpověděl na nahrání souboru, zkuste to prosím znovu"
+
+#: inc/wpf_popup_string.php:20
+msgid "The website server didn't respond, please try again"
+msgstr "Server webu neodpověděl, zkuste to prosím znovu"
+
+#: inc/admin/page-settings.php:134
+msgid "There are no Orphan tasks"
+msgstr "Nejsou tu žádné nepřiřazené úkoly"
+
+#: inc/frontend/wpf_approve_page_modal.php:10
+msgid "there was some error. Please try again."
+msgstr "došlo k nějaké chybě. Prosím zkuste to znovu."
+
+#: inc/admin/wpf_backend_initial_setup.php:110
+msgid ""
+"These are global settings. Each user can then choose their own notifications "
+"out of the options selected here."
+msgstr ""
+"Toto jsou globální nastavení. Každý uživatel si pak může vybrat vlastní "
+"notifikace z možností vybraných zde."
+
+#: inc/admin/page-settings-permissions.php:157
+msgid ""
+"These names are for the setup wizard when you first installed the plugin. "
+"Every user who comes to the website after installation will have to go "
+"through it and you can name the 3 options here."
+msgstr ""
+"Tyto názvy jsou pro průvodce nastavením při první instalaci pluginu. Každý "
+"uživatel, který přijde na web po instalaci, bude muset tímto projít a zde "
+"můžete pojmenovat 3 možnosti."
+
+#: inc/admin/page-settings.php:723
+msgid "These should help"
+msgstr "Toto by mělo pomoci"
+
+#: inc/wpf_email_notifications.php:141
+msgid ""
+"This email and any attachments to it may be confidential and are intended "
+"solely for the use of the individual to whom it is addressed."
+msgstr ""
+"Tento email a jeho jakékoliv přílohy mohou být považovány za soukromé a jsou "
+"určené pouze pro adresáta tohoto emailu."
+
+#: inc/admin/wpf_backend_initial_setup.php:79
+msgid ""
+"This is great for staging sites or during the build, but not ideal for live "
+"websites. The real magic is getting your clients used to using WordPress by "
+"encouraging them to log in to their own website."
+msgstr ""
+"To je skvělé pro staging weby nebo během vytváření, ale není to ideální pro "
+"weby, které jsou online. Skutečnou magií je, že si vaši klienti zvykají "
+"používat WordPress tím, že je povzbuzujete, aby se přihlásili na vlastní web."
+
+#: inc/admin/page-settings.php:514
+msgid ""
+"This is great for upselling your clients or making them aware of additional "
+"services that you can provide."
+msgstr ""
+"To je skvělé pro upselling vašich klientů nebo pro seznámení s dalšími "
+"službami, které můžete poskytnout."
+
+#: inc/admin/page-settings.php:407
+#| msgid ""
+#| "This is used to disable the plugin on this website, to save you the "
+#| "trouble of having to deactivate it in your plugin settings."
+msgid ""
+"This is used to enable and disable the collaboration functions on this "
+"website, to save you the trouble of having to deactivate it in your plugin "
+"settings."
+msgstr ""
+"Používá se k deaktivaci pluginu na tomto webu, abyste si ušetřili potíže s "
+"jeho deaktivací v nastavení pluginu."
+
+#: inc/admin/page-settings.php:572
+msgid ""
+"This option is in addition to the user emails. Seperate with comma for "
+"multiple addresses."
+msgstr ""
+"Tato možnost je doplňkem e -mailů uživatelů. Pro více adres oddělte čárkami."
+
+#: inc/admin/wpf_admin_function.php:211 inc/admin/wpf_admin_function.php:291
+msgid "This Page"
+msgstr "Tato stránka"
+
+#: inc/admin/page-settings-permissions.php:376
+msgid ""
+"This will be the user you created for your main contact for this website."
+msgstr ""
+"Toto bude uživatel, kterého jste vytvořili pro svůj hlavní kontakt pro tento "
+"web."
+
+#: inc/admin/page-settings-permissions.php:358
+msgid ""
+"This will probably be your own user, as the person or agency that is "
+"building the website."
+msgstr ""
+"Pravděpodobně to bude váš vlastní uživatel jako osoba nebo agentura, která "
+"vytváří web."
+
+#: inc/admin/page-settings.php:513
+#| msgid ""
+#| "This will replace the &quot;Powered by WP FeedBack&quot; link to your own."
+msgid "This will replace the &quot;Powered by Atarim&quot; link to your own."
+msgstr "Toto nahradí  &quot;Powered by WP FeedBack&quot; odkaz vaším vlastním"
+
+#: inc/admin/page-settings.php:496
+msgid "This will replace the Atarim icon in the admin side menu."
+msgstr "To nahradí ikonu Atarimu v postranní nabídce administrace."
+
+#: inc/admin/page-settings.php:479
+msgid ""
+"This will replace the logo in the top right of this page and the logo on the "
+"notification emails that are sent out."
+msgstr ""
+"Toto nahradí logo v právem horním rohu této stránky a logo v emailových "
+"upozorněních, která jsou odeslána."
+
+#: inc/admin/page-settings.php:540
+msgid ""
+"Tick this setting to remove the name Atarim. Add your own logo and change "
+"the logo link above to ensure that the Client Interface Plugin is white "
+"labelled entirely."
+msgstr ""
+"Zaškrtnutím tohoto nastavení odstraníte název Atarim. Přidejte své vlastní "
+"logo a změňte výše uvedený odkaz na logo, abyste zajistili, že Atarim - "
+"Client interface plugin bude celý označen rebrandovaný."
+
+#: inc/admin/page-settings.php:578
+msgid ""
+"Ticking these on will display <b>them as an option on the front-end wizard "
+"for users to choose</b>. For example, if you don't want users to choose the "
+"option to send 24 hour reports, tick that off and it will not display on the "
+"front-end wizard."
+msgstr ""
+"Když je zaškrtnete, <b>zobrazí se jako možnost v průvodci front-end, kterou "
+"si uživatelé mohou vybrat</b>. Pokud například nechcete, aby si uživatelé "
+"vybrali možnost odesílání 24hodinových zpráv, zaškrtněte tuto možnost a v "
+"průvodci front-end se nezobrazí."
+
+#: inc/admin/page-settings.php:403
+msgid "To find these settings, go here."
+msgstr "Pro nazelení tohoto nastavení, bežte sem"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:19
+msgid "To optimize your experience, which one describes you best?"
+msgstr "Pro co nejlepší zážitek, popište, co vás nejlépe popisuje?"
+
+#: inc/admin/page-settings-graphics.php:60
+#: inc/admin/page-settings-permissions.php:66 inc/admin/page-settings.php:107
+msgid "Upgrade"
+msgstr "Upgradovat"
+
+#: graphics/wpf_graphics_all_list.php:14
+#| msgid ""
+#| "Upload an image to collaborate visually using WP FeedBack PRO, perfect "
+#| "for screen mockups, logos, flyers or any other type of graphic you are "
+#| "designing."
+msgid ""
+"Upload an image to collaborate visually using Atarim, perfect for screen "
+"mockups, logos, flyers or any other type of graphic you are designing."
+msgstr ""
+"Nahrajte obrázek, abyste mohli vizuálně spolupracovat pomocí WP FeedBack PRO,"
+" ideální pro mockupy, loga, letáky nebo jakýkoli jiný typ grafiky, kterou "
+"navrhujete."
+
+#: graphics/wpf_graphics.php:294
+msgid "Upload New Version"
+msgstr "Nahrát novou verzi"
+
+#: inc/wpf_email_notifications.php:131
+msgid "User IP"
+msgstr "IP uživatele"
+
+#: inc/wpf_popup_string.php:26
+msgid "User IP:"
+msgstr "IP uživatele"
+
+#: inc/wpf_popup_string.php:25
+msgid "User Name:"
+msgstr "Uživatelské jméno"
+
+#: inc/admin/page-settings-permissions.php:87
+#: inc/admin/page-settings-permissions.php:175
+#| msgid "User permissions"
+msgid "User Permissions"
+msgstr "uživatelské oprávnění"
+
+#: inc/admin/page-settings-permissions.php:115
+msgid "User roles allowed to create tasks"
+msgstr "Uživatelské účty, které mohou vytvářet úkoly"
+
+#: inc/wpf_email_notifications.php:125
+msgid "Users"
+msgstr "Uživatelé"
+
+#: inc/admin/wpf_backend_initial_setup.php:49
+msgid "Validate Domain"
+msgstr "Ověřit doménu"
+
+#: inc/admin/page-settings-permissions.php:96
+msgid "Validate Your Installation"
+msgstr "Ověřte Vaší instalaci"
+
+#: inc/admin/page-settings.php:711
+msgid "Video walkthrough"
+msgstr "Video návod"
+
+#: inc/wpf_email_notifications.php:120
+msgid "View"
+msgstr "Zobrazit"
+
+#: inc/frontend/wpf_frontend_initial_setup.php:61
+msgid "Watch this short tutorial to get started"
+msgstr "Podívejte se na tento krátky tutorial a můžete začít"
+
+#: inc/admin/wpf_backend_initial_setup.php:164
+#| msgid ""
+#| "Watch this short video to show you how to use WP Feedback to its full "
+#| "potential, saving you loaaaads of time and getting your client to love "
+#| "you even more."
+msgid ""
+"Watch this short video to show you how to use Atarim to its full potential, "
+"saving you loaaaads of time and getting your client to love you even more."
+msgstr ""
+"Podívejte se na toto krátké video, které vám ukáže, jak využít WP Feedback k "
+"jeho plnému potenciálu, což vám ušetří spoustu času a přiměje klienta, aby "
+"vás ještě více miloval."
+
+#: inc/admin/page-settings.php:753
+msgid ""
+"We collected your name, email, license key and domain so all you need to do, "
+"is tell us what's\n"
+"                        up."
+msgstr ""
+"Shromáždili jsme vaše jméno, e-mail, licenční klíč a doménu, takže vše, co "
+"musíte udělat, je říct, co se děje."
+
+#: inc/admin/page-settings.php:750
+msgid "We will reply via email in up to 24 hours (Weekdays)"
+msgstr "Odpovíme přes email do 24 hodin (V pracovní dny)"
+
+#: inc/admin/page-settings-permissions.php:164
+#: inc/admin/page-settings-permissions.php:183
+msgid "Webmaster"
+msgstr "Webmaster"
+
+#: inc/admin/page-settings.php:377
+msgid ""
+"Websites should now be resync / added now to the dashboard. Please contact "
+"support in case if does not."
+msgstr ""
+"Webová stránky by nyní měla být synchronizována /přidána do nástěnky. Pokud "
+"ne, kontaktujte podporu."
+
+#: inc/admin/page-settings.php:143
+msgid "Weekly Report"
+msgstr "Týdenní přehled"
+
+#: inc/frontend/wpf_approve_page_modal.php:5
+msgid ""
+"When the page is ready, click the green button to signal to the webmaster "
+"that <b>this page is approved."
+msgstr ""
+"Až bude stránka připravena, klikněte na zelené tlačítko, abyste webmasterovi "
+"dali najevo, že <b>tato stránka je schválena."
+
+#: inc/admin/page-settings.php:519 inc/admin/page-settings.php:526
+#| msgid ""
+#| "Where ever you see the blue, this option will change it to whatever "
+#| "colour you want!"
+msgid ""
+"Where ever you see the blue, this option will change it to whatever color "
+"you want!"
+msgstr ""
+"Kdekoliv uvidíte modrou, toto nastavení jí změní na cokoliv budete chtít!"
+
+#: inc/admin/page-settings.php:475
+msgid ""
+"where your license is activated by visiting the general settings screen on "
+"your"
+msgstr ""
+"kde je vaše licence aktivována, když navštívíte obrazovku obecných nastavení "
+"na vašem"
+
+#: inc/admin/wpf_backend_initial_setup.php:109
+msgid "Which notifications would you like the plugin to send out?"
+msgstr "Které notifikace chcete, aby plugin posílal?"
+
+#: inc/admin/page-settings.php:365 inc/admin/page-settings.php:473
+msgid "White Label"
+msgstr "White Label"
+
+#: inc/admin/wpf_admin_function.php:205
+msgid ""
+"Write your message in the existing thread. <br>Here, we opened it for you."
+msgstr ""
+"Napište svou zprávu do stávajícího vlákna. <br>Tady jsme to pro vás otevřeli."
+
+#: inc/wpf_popup_string.php:31
+msgid "Yes"
+msgstr "Ano"
+
+#: inc/admin/page-settings.php:475
+msgid "You can "
+msgstr "Můžete"
+
+#: inc/admin/page-settings.php:403
+msgid "You can also control the permissions of Atarim Client Interface:"
+msgstr "Můžete také ovládat oprávnění Atarim Client Interface:"
+
+#: inc/admin/page-settings-permissions.php:94
+msgid ""
+"You can find your license key on your account page. If for some reason your "
+"license is not validating, please contact support."
+msgstr ""
+"Licenční klíč naleznete na stránce svého účtu. Pokud se z nějakého důvodu "
+"vaše licence neověřila správně, kontaktujte podporu."
+
+#: inc/wpf_email_notifications.php:94
+msgid "You have a new reply on"
+msgstr "Máte novou odpověď na"
+
+#: inc/wpf_email_notifications.php:93
+msgid "You have a new task on"
+msgstr "Máte nový úkol na"
+
+#: inc/admin/page-settings.php:403
+msgid "You will also see your license settings on this page."
+msgstr "Na této stránce také uvidíte nastavení své licence."
+
+#: inc/admin/wpf_backend_initial_setup.php:23
+msgid "your account."
+msgstr "Váš účet"
+
+#: inc/wpf_email_notifications.php:99
+msgid "Your daily report for"
+msgstr "Váš denní přehled pro"
+
+#: inc/admin/wpf_backend_initial_setup.php:50
+msgid "Your domain is not validated,please visit your account on our website."
+msgstr "Vaše doména není zvalidována, prosím navštivte váš účet na našem webu"
+
+#: inc/admin/page-settings.php:792
+#| msgid ""
+#| "Your message was sent to the WP FeedBack PRO Team. Thanks for contacting "
+#| "us. We will reply to this email address shortly:"
+msgid ""
+"Your message was sent to the Atarim Team. Thanks for contacting us. We will "
+"reply to this email address shortly:"
+msgstr ""
+"Vaše zpráva byla odeslána týmu WP FeedBack PRO. děkujeme, že jste nás "
+"kontaktovali. Brzy odpovíme na tuto e-mailovou adresu:"
+
+#: inc/admin/page-settings.php:132
+msgid "Your report was sent"
+msgstr "Váš přehled byl poslán"
+
+#: inc/wpf_email_notifications.php:95
+msgid "Your task on"
+msgstr "Váš úkol na"
+
+#: inc/wpf_email_notifications.php:97
+msgid "Your task status on"
+msgstr "Váš úkol na"
+
+#: inc/admin/page-settings.php:689 inc/admin/page-settings.php:730
+msgid "Zapier Integration"
+msgstr "Inetgrace Zapieru"

@@ -1,0 +1,827 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Admin Theme CD\n"
+"POT-Creation-Date: 2017-09-27 16:09+0200\n"
+"PO-Revision-Date: 2017-09-27 16:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-admin-theme-cd.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-admin-theme-cd.php:76
+msgid "WP Admin Theme"
+msgstr ""
+
+#: wp-admin-theme-cd.php:85
+msgid "WP Admin Theme CD - Options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:97
+msgid "Restore all"
+msgstr ""
+
+#: wp-admin-theme-cd.php:109
+msgid "Save Changes"
+msgstr ""
+
+#: wp-admin-theme-cd.php:111
+msgid "You have no permissions to change this options!"
+msgstr ""
+
+#: wp-admin-theme-cd.php:125
+msgid "Theme Options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:128 wp-admin-theme-cd.php:1777
+msgid "User Box"
+msgstr ""
+
+#: wp-admin-theme-cd.php:131 wp-admin-theme-cd.php:1782
+msgid "Company Box"
+msgstr ""
+
+#: wp-admin-theme-cd.php:134 wp-admin-theme-cd.php:1797
+msgid "Thumbnails"
+msgstr ""
+
+#: wp-admin-theme-cd.php:137 wp-admin-theme-cd.php:1802
+msgid "Post/Page IDs"
+msgstr ""
+
+#: wp-admin-theme-cd.php:140 wp-admin-theme-cd.php:1807
+msgid "Spacing"
+msgstr ""
+
+#: wp-admin-theme-cd.php:143 wp-admin-theme-cd.php:1812
+msgid "Credits"
+msgstr ""
+
+#: wp-admin-theme-cd.php:146 wp-admin-theme-cd.php:1817
+msgid "Custom Web Font"
+msgstr ""
+
+#: wp-admin-theme-cd.php:149 wp-admin-theme-cd.php:152
+#: wp-admin-theme-cd.php:1827
+msgid "Toolbar"
+msgstr ""
+
+#: wp-admin-theme-cd.php:155 wp-admin-theme-cd.php:1832
+msgid "Toolbar WP Icon"
+msgstr ""
+
+#: wp-admin-theme-cd.php:158
+msgid "Custom Toolbar Icon"
+msgstr ""
+
+#: wp-admin-theme-cd.php:161
+msgid "Colors"
+msgstr ""
+
+#: wp-admin-theme-cd.php:164 wp-admin-theme-cd.php:1842
+msgid "Theme Color"
+msgstr ""
+
+#: wp-admin-theme-cd.php:167 wp-admin-theme-cd.php:1847
+#: wp-admin-theme-cd.php:1852
+msgid "Background Gradient Color"
+msgstr ""
+
+#: wp-admin-theme-cd.php:170
+msgid "WP Login Page"
+msgstr ""
+
+#: wp-admin-theme-cd.php:173 wp-admin-theme-cd.php:1857
+msgid "Customized Login Page"
+msgstr ""
+
+#: wp-admin-theme-cd.php:176 wp-admin-theme-cd.php:1862
+msgid "Login Title"
+msgstr ""
+
+#: wp-admin-theme-cd.php:179
+msgid "Logo"
+msgstr ""
+
+#: wp-admin-theme-cd.php:182
+msgid "Background Image"
+msgstr ""
+
+#: wp-admin-theme-cd.php:185
+msgid "Footer Information"
+msgstr ""
+
+#: wp-admin-theme-cd.php:188 wp-admin-theme-cd.php:1882
+#: wp-admin-theme-cd.php:2660 wp-admin-theme-cd.php:2662
+msgid "Memory Usage"
+msgstr ""
+
+#: wp-admin-theme-cd.php:191 wp-admin-theme-cd.php:1887
+#: wp-admin-theme-cd.php:2673 wp-admin-theme-cd.php:2675
+msgid "WP Memory Limit"
+msgstr ""
+
+#: wp-admin-theme-cd.php:194 wp-admin-theme-cd.php:1892
+msgid "PHP Version"
+msgstr ""
+
+#: wp-admin-theme-cd.php:197 wp-admin-theme-cd.php:1897
+msgid "IP Address"
+msgstr ""
+
+#: wp-admin-theme-cd.php:200 wp-admin-theme-cd.php:1902
+msgid "WP Version"
+msgstr ""
+
+#: wp-admin-theme-cd.php:203
+msgid "Custom Stylesheets"
+msgstr ""
+
+#: wp-admin-theme-cd.php:206 wp-admin-theme-cd.php:1909
+msgid "WP Admin CSS"
+msgstr ""
+
+#: wp-admin-theme-cd.php:209 wp-admin-theme-cd.php:1916
+msgid "WP Login CSS"
+msgstr ""
+
+#: wp-admin-theme-cd.php:212
+msgid "Media"
+msgstr ""
+
+#: wp-admin-theme-cd.php:215 wp-admin-theme-cd.php:1921
+msgid "SVG Support"
+msgstr ""
+
+#: wp-admin-theme-cd.php:218 wp-admin-theme-cd.php:1926
+msgid "ICO Support"
+msgstr ""
+
+#: wp-admin-theme-cd.php:221
+msgid "Multisite Support"
+msgstr ""
+
+#: wp-admin-theme-cd.php:224 wp-admin-theme-cd.php:1931
+msgid "Network Theme Options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:227
+msgid "WP Optimization & Security"
+msgstr ""
+
+#: wp-admin-theme-cd.php:230 wp-admin-theme-cd.php:1936
+msgid "WP Version Meta-Tag"
+msgstr ""
+
+#: wp-admin-theme-cd.php:233 wp-admin-theme-cd.php:1941
+msgid "WP Emoji"
+msgstr ""
+
+#: wp-admin-theme-cd.php:236 wp-admin-theme-cd.php:1946
+msgid "WP RSS Feed"
+msgstr ""
+
+#: wp-admin-theme-cd.php:239 wp-admin-theme-cd.php:1951
+msgid "WP RSD"
+msgstr ""
+
+#: wp-admin-theme-cd.php:242 wp-admin-theme-cd.php:1956
+msgid "WP Wlwmanifest"
+msgstr ""
+
+#: wp-admin-theme-cd.php:245 wp-admin-theme-cd.php:1961
+msgid "WP Shortlink"
+msgstr ""
+
+#: wp-admin-theme-cd.php:248 wp-admin-theme-cd.php:1966
+msgid "WP REST API"
+msgstr ""
+
+#: wp-admin-theme-cd.php:251 wp-admin-theme-cd.php:1971
+msgid "WP oEmbed"
+msgstr ""
+
+#: wp-admin-theme-cd.php:254
+msgid "WP XML-RPC / X-Pingback"
+msgstr ""
+
+#: wp-admin-theme-cd.php:257 wp-admin-theme-cd.php:1981
+msgid "WP Heartbeat"
+msgstr ""
+
+#: wp-admin-theme-cd.php:260 wp-admin-theme-cd.php:1986
+msgid "WP Rel Links"
+msgstr ""
+
+#: wp-admin-theme-cd.php:494
+msgid "All fields has been restored."
+msgstr ""
+
+#: wp-admin-theme-cd.php:514 wp-admin-theme-cd.php:1860
+msgid "Welcome Back."
+msgstr ""
+
+#: wp-admin-theme-cd.php:542
+msgid "Settings saved."
+msgstr ""
+
+#: wp-admin-theme-cd.php:616 wp-admin-theme-cd.php:685
+#: wp-admin-theme-cd.php:708 wp-admin-theme-cd.php:754
+#: wp-admin-theme-cd.php:805 wp-admin-theme-cd.php:828
+#: wp-admin-theme-cd.php:980 wp-admin-theme-cd.php:1003
+#: wp-admin-theme-cd.php:1026 wp-admin-theme-cd.php:1049
+#: wp-admin-theme-cd.php:1072 wp-admin-theme-cd.php:1765
+msgid "Visible"
+msgstr ""
+
+#: wp-admin-theme-cd.php:618 wp-admin-theme-cd.php:687
+#: wp-admin-theme-cd.php:710 wp-admin-theme-cd.php:756
+#: wp-admin-theme-cd.php:807 wp-admin-theme-cd.php:830
+#: wp-admin-theme-cd.php:982 wp-admin-theme-cd.php:1005
+#: wp-admin-theme-cd.php:1028 wp-admin-theme-cd.php:1051
+#: wp-admin-theme-cd.php:1074 wp-admin-theme-cd.php:1766
+msgid "Hidden"
+msgstr ""
+
+#: wp-admin-theme-cd.php:623 wp-admin-theme-cd.php:692
+#: wp-admin-theme-cd.php:715 wp-admin-theme-cd.php:761
+#: wp-admin-theme-cd.php:812 wp-admin-theme-cd.php:835
+#: wp-admin-theme-cd.php:987 wp-admin-theme-cd.php:1010
+#: wp-admin-theme-cd.php:1033 wp-admin-theme-cd.php:1056
+#: wp-admin-theme-cd.php:1079
+msgid "Hide"
+msgstr ""
+
+#: wp-admin-theme-cd.php:625
+msgid "Display the user avatar and name before the left wordpress admin menu"
+msgstr ""
+
+#: wp-admin-theme-cd.php:639 wp-admin-theme-cd.php:733
+#: wp-admin-theme-cd.php:903 wp-admin-theme-cd.php:1768
+msgid "Disabled"
+msgstr ""
+
+#: wp-admin-theme-cd.php:641 wp-admin-theme-cd.php:731
+#: wp-admin-theme-cd.php:901 wp-admin-theme-cd.php:1767
+msgid "Enabled"
+msgstr ""
+
+#: wp-admin-theme-cd.php:646 wp-admin-theme-cd.php:1124
+#: wp-admin-theme-cd.php:1147
+msgid "Enable"
+msgstr ""
+
+#: wp-admin-theme-cd.php:648
+msgid ""
+"Show a company box with your logo instead of the user box. The user box must "
+"be visible"
+msgstr ""
+
+#: wp-admin-theme-cd.php:658
+msgid "Company Logo"
+msgstr ""
+
+#: wp-admin-theme-cd.php:660 wp-admin-theme-cd.php:850
+#: wp-admin-theme-cd.php:933 wp-admin-theme-cd.php:957
+msgid "Upload Image"
+msgstr ""
+
+#: wp-admin-theme-cd.php:662 wp-admin-theme-cd.php:934
+msgid "Logo Size (Pixel)"
+msgstr ""
+
+#: wp-admin-theme-cd.php:694
+msgid ""
+"Display a thumbnail column before the title for post and page table lists"
+msgstr ""
+
+#: wp-admin-theme-cd.php:717
+msgid "Display a IDs column for post and page table lists"
+msgstr ""
+
+#: wp-admin-theme-cd.php:738 wp-admin-theme-cd.php:908
+#: wp-admin-theme-cd.php:1176 wp-admin-theme-cd.php:1203
+#: wp-admin-theme-cd.php:1228 wp-admin-theme-cd.php:1253
+#: wp-admin-theme-cd.php:1278 wp-admin-theme-cd.php:1303
+#: wp-admin-theme-cd.php:1328 wp-admin-theme-cd.php:1353
+#: wp-admin-theme-cd.php:1378 wp-admin-theme-cd.php:1403
+#: wp-admin-theme-cd.php:1428 wp-admin-theme-cd.php:1453
+msgid "Disable"
+msgstr ""
+
+#: wp-admin-theme-cd.php:740
+msgid "Remove the spacing around the backend block"
+msgstr ""
+
+#: wp-admin-theme-cd.php:763
+msgid "Remove the credits note from the footer"
+msgstr ""
+
+#: wp-admin-theme-cd.php:776
+msgid "Font-Family"
+msgstr ""
+
+#: wp-admin-theme-cd.php:780
+msgid "Font-Weight"
+msgstr ""
+
+#: wp-admin-theme-cd.php:782
+msgid ""
+"Embed a custom <a target=\"_blank\" href=\"https://fonts.google.com/"
+"\">Google Webfont</a> to your WordPress Admin"
+msgstr ""
+
+#: wp-admin-theme-cd.php:791
+msgid ""
+"Please separate in Font-Name and Font-Weight like this example: [Font-Family "
+"= \"Roboto\"] and [Font-Weight = \"400,400i,700\"]"
+msgstr ""
+
+#: wp-admin-theme-cd.php:814
+msgid "Remove the upper toolbar"
+msgstr ""
+
+#: wp-admin-theme-cd.php:837
+msgid "Remove the WordPress Icon from the upper toolbar"
+msgstr ""
+
+#: wp-admin-theme-cd.php:859
+msgid "Upload a custom icon instead of the WordPress icon"
+msgstr ""
+
+#: wp-admin-theme-cd.php:861
+msgid "Recommended image size is 26 x 26px."
+msgstr ""
+
+#: wp-admin-theme-cd.php:871
+msgid "Select your custom wp admin theme color. Default value is #4777CD"
+msgstr ""
+
+#: wp-admin-theme-cd.php:881 wp-admin-theme-cd.php:1847
+msgid "Start Color"
+msgstr ""
+
+#: wp-admin-theme-cd.php:885 wp-admin-theme-cd.php:1852
+msgid "End Color"
+msgstr ""
+
+#: wp-admin-theme-cd.php:887
+msgid ""
+"Select your custom wp admin theme background gradient color. Default start "
+"value is #545c63 and end value is #32373c"
+msgstr ""
+
+#: wp-admin-theme-cd.php:910
+msgid ""
+"It is useful if you have an other login plugin installed. This is preventing "
+"conflicts with other plugins"
+msgstr ""
+
+#: wp-admin-theme-cd.php:944
+msgid "Upload an image for your WordPress login page"
+msgstr ""
+
+#: wp-admin-theme-cd.php:966
+msgid "Upload a background image for your WordPress login page"
+msgstr ""
+
+#: wp-admin-theme-cd.php:989
+msgid "Display the currently memory usage of your WordPress installation"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1012
+msgid "Display the memory limit of your WordPress installation"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1035
+msgid "Display the PHP version of your server"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1058
+msgid "Display the IP address of your server"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1081
+msgid "Display the installed WordPress version"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1092
+msgid ""
+"Add custom CSS for the Wordpress admin theme. To overwrite some classes, use "
+"\"!important\". Like this example \"border-right: 3px!important\""
+msgstr ""
+
+#: wp-admin-theme-cd.php:1103
+msgid ""
+"Add custom CSS for the Wordpress login page. To overwrite some classes, use "
+"\"!important\". Like this example \"border-right: 3px!important\""
+msgstr ""
+
+#: wp-admin-theme-cd.php:1117 wp-admin-theme-cd.php:1140
+#: wp-admin-theme-cd.php:1163 wp-admin-theme-cd.php:1772
+msgid "Deactivated"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1119 wp-admin-theme-cd.php:1142
+#: wp-admin-theme-cd.php:1165 wp-admin-theme-cd.php:1196
+#: wp-admin-theme-cd.php:1221 wp-admin-theme-cd.php:1246
+#: wp-admin-theme-cd.php:1271 wp-admin-theme-cd.php:1296
+#: wp-admin-theme-cd.php:1321 wp-admin-theme-cd.php:1346
+#: wp-admin-theme-cd.php:1371 wp-admin-theme-cd.php:1396
+#: wp-admin-theme-cd.php:1421 wp-admin-theme-cd.php:1446
+#: wp-admin-theme-cd.php:1771
+msgid "Activated"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1126
+msgid "Allow the upload of SVG files"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1149
+msgid "Allow the upload of ICO files"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1178
+msgid ""
+"Disable the permissions to change WP Admin Theme options for all other "
+"network sites"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1181
+msgid "Activate multisite support for WordPress to use this option"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1198 wp-admin-theme-cd.php:1223
+#: wp-admin-theme-cd.php:1248 wp-admin-theme-cd.php:1273
+#: wp-admin-theme-cd.php:1298 wp-admin-theme-cd.php:1323
+#: wp-admin-theme-cd.php:1348 wp-admin-theme-cd.php:1373
+#: wp-admin-theme-cd.php:1398 wp-admin-theme-cd.php:1423
+#: wp-admin-theme-cd.php:1448
+msgid "Removed"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1205
+msgid "Remove the WordPress Version Meta-Tag from wp head"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1207
+msgid ""
+"Show the version number of your currently installed WordPress in the source "
+"code."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1230
+msgid "Remove the WordPress Emoticons from your source code."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1232
+msgid "Display a textual portrayals like \";-)\" as a emoticon icon."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1255
+msgid ""
+"Disable the RSS feed functionality and remove the WordPress page and "
+"comments RSS feed links from wp head"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1257
+msgid ""
+"RSS (Really Simple Syndication) is a type of web feed which allows users to "
+"access updates to online content in a standardized, computer-readable format."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1280
+msgid "Remove the RSD link from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1282
+msgid ""
+"Really Simple Discovery (RSD) is an XML format and a publishing convention "
+"for making services exposed by a blog, or other web software, discoverable "
+"by client software."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1305
+msgid "Remove the Wlwmanifest link from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1307
+msgid "Needed to enable tagging support for Windows Live Writer."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1330
+msgid "Remove the shortlink link from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1332
+msgid "Shortlink is a shorten version of a web page’s URL."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1355
+msgid "Disable the REST API and remove the wp json link from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1357
+msgid ""
+"The API makes it super easy to retrieve data using GET requests, which is "
+"useful for those building apps with WordPress."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1380
+msgid "Disable wp embed and remove the oEmbed links from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1382
+msgid ""
+"oEmbed feature which allows others to embed your WordPress posts into their "
+"own site by adding the post URL."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1405
+msgid "Disable remote access."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1407
+msgid ""
+"XML-RPC is a remote procedure call which uses XML to encode its calls and "
+"HTTP as a transport mechanism. If you want to access and publish to your "
+"blog remotely, then you need XML-RPC enabled. XML-RPC protocol is used by "
+"WordPress as API for Pingbacks and third-party applications, such as mobile "
+"apps, inter-blog communication and popular plugins like JetPack."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1430
+msgid "Stop the heartbeat updates."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1432
+msgid ""
+"The Heartbeat API is a simple server polling API built in to WordPress, "
+"allowing near-real-time frontend updates. The heartbeat API allows for "
+"regular communication between the users browser and the server. One of the "
+"original motivations was to allow for locking posts and warning users when "
+"more than one user is attempting to edit a post, or warning the user when "
+"their log-in has expired."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1455
+msgid ""
+"Remove the post rel index / start / parent / prev / next links from wp head."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1457
+msgid ""
+"This feature display the URL of the index, start, parent, previous and next "
+"post in the source code."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1554 wp-admin-theme-cd.php:1570
+msgid "WP Admin Theme CD - Import & Export"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1555
+msgid "WP Admin Im-/Export"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1576
+msgid "Export"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1578
+msgid ""
+"When you click the Export button, the system will generate a JSON file for "
+"you to save on your computer."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1579
+msgid ""
+"This backup file contains all WP Admin Theme configution and setting options "
+"from this WordPress installation."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1580
+msgid ""
+"After exporting, you can either use the JSON file to restore your settings "
+"on this site again or another WordPress site."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1584
+msgid "Export WP Admin Theme options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1587
+msgid "Import"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1592
+msgid "An error occurred."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1608
+msgid "All options are restored successfully."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1610
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1617
+msgid "Click the Browse button and choose a JSON file."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1618
+msgid "Press the Import button restore all options."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1624
+msgid "Import options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1681 wp-admin-theme-cd.php:1736
+msgid "WP Admin Theme CD - Multisite Update"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1682
+msgid "WP Admin Multisite Update"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1729
+msgid "All network sites has been updated."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1742
+msgid ""
+"Update your WP Admin Theme CD options for all network websites together."
+msgstr ""
+
+#: wp-admin-theme-cd.php:1744
+msgid "Share Options"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1753
+msgid "You will share the following options from Blog ID"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1753 wp-admin-theme-cd.php:2004
+msgid "Blog Name"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1753
+msgid "for all network blogs"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1758
+msgid "Option"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1759
+msgid "Value"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1769
+msgid "Not selected"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1770
+msgid "Not added"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1787
+msgid "Company Box Logo"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1792
+msgid "Company Box Logo Size"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1792 wp-admin-theme-cd.php:1872
+msgid "Pixel"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1822
+msgid "Custom Web Font Weight"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1837
+msgid "Toolbar Custom Icon"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1867
+msgid "Login Logo"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1872
+msgid "Logo Size"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1877
+msgid "Login Background Image"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1976
+msgid "XML-RPC / X-Pingback"
+msgstr ""
+
+#: wp-admin-theme-cd.php:1994
+msgid "You will update the following network sites"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2004 wp-admin-theme-cd.php:2531
+msgid "ID"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2011
+msgid "Update all network blogs"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2011
+msgid "Are you sure you want to run the update for all blogs?"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2129 wp-admin-theme-cd.php:2405
+msgid "Home"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2129
+msgid "Logout"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2361 wp-admin-theme-cd.php:2363
+msgid "Edit"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2361 wp-admin-theme-cd.php:2363
+msgid "Howdy"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2402
+msgid "No image selected."
+msgstr ""
+
+#: wp-admin-theme-cd.php:2458
+msgid "Image"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2477
+msgid "No Thumbnail"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2625
+msgid "N/A"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2659
+msgid " of "
+msgstr ""
+
+#: wp-admin-theme-cd.php:2663
+msgid " of"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2686 wp-admin-theme-cd.php:2688
+msgid "IP"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2697 wp-admin-theme-cd.php:2699
+msgid "PHP"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2709 wp-admin-theme-cd.php:2711
+msgid "WP"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2823
+msgid "No feed available, please visit our"
+msgstr ""
+
+#: wp-admin-theme-cd.php:2823
+msgid "homepage"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Admin Theme CD"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.creative-dive.de"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A clean and modern WordPress Admin Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Martin Jost"
+msgstr ""

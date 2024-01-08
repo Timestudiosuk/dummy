@@ -1,0 +1,20 @@
+array (
+  'id' => 1,
+  'status' => 'finish',
+  'date_start' => '2021-01-22 17:37:22',
+  'percent' => 75.0,
+  'total_tasks' => 4,
+  'task_checkpoint' => NULL,
+  'date_end' => '2021-01-22 17:37:22',
+  'is_automation' => false,
+)
+array (
+  'id' => 2,
+  'status' => 'finish',
+  'date_start' => '2021-01-22 17:39:00',
+  'percent' => 75.0,
+  'total_tasks' => 4,
+  'task_checkpoint' => NULL,
+  'date_end' => '2021-01-22 17:39:00',
+  'is_automation' => false,
+)

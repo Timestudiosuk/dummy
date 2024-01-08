@@ -1,0 +1,1549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Feedback\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-13 12:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: inc/wpf_function.php:1262
+msgid " days ago"
+msgstr ""
+
+#: inc/wpf_function.php:1259
+msgid " hours ago"
+msgstr ""
+
+#: inc/admin/page-settings.php:467
+msgid ""
+" If this is checked on (not recommended), all the tasks and comments will be "
+"deleted from the database once the plugin is deactivated and deleted."
+msgstr ""
+
+#: inc/wpf_function.php:1256
+msgid " minutes ago"
+msgstr ""
+
+#: inc/wpf_function.php:1265
+msgid " months ago"
+msgstr ""
+
+#: inc/wpf_function.php:1254
+msgid " seconds ago"
+msgstr ""
+
+#: inc/wpf_function.php:1268
+msgid " years ago"
+msgstr ""
+
+#: inc/admin/page-settings.php:407
+msgid ""
+" you can allow or disallow users to use certain functions, you can even turn "
+"on guest mode to allow any visitor to the website to use the tool without "
+"needing to login."
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:18
+msgid ", Let's give feedback"
+msgstr ""
+
+#: inc/admin/page-settings.php:635
+msgid "/knowledge-base/faq/task-notifications/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:47
+msgid "2. Who should comment?"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:99
+msgid "3. Choose notifications"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:75
+msgid "3. Global Settings"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:155
+msgid "4. All done!"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:91
+#: inc/admin/wpf_backend_initial_setup.php:148
+msgid "<< Back"
+msgstr ""
+
+#: inc/wpf_popup_string.php:19
+msgid "A user must be selected to post a comment"
+msgstr ""
+
+#: graphics/wpf_graphics_all_list.php:14
+msgid "Add a New Graphic"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:74
+msgid "Add a new Graphic Item"
+msgstr ""
+
+#: inc/wpf_popup_string.php:17
+msgid "Add Comment"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:33
+msgid "Add this website to your Agency Dashboard"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:96
+msgid "Add this website to your Agency Dashboard account"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:199
+msgid "Add User"
+msgstr ""
+
+#: inc/wpf_popup_string.php:39 inc/admin/page-settings.php:262
+msgid "Additional Information"
+msgstr ""
+
+#: inc/wpf_ajax_functions.php:284 inc/wpf_function.php:714
+#: inc/admin/page-settings.php:162
+msgid "Admin"
+msgstr ""
+
+#: inc/wpf_function.php:2532 inc/wpf_function.php:2702
+msgid "Agency"
+msgstr ""
+
+#: inc/admin/page-settings.php:480
+msgid "Agency Dashboard"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:84
+#: inc/admin/page-settings-permissions.php:93
+msgid "Agency Dashboard Integration"
+msgstr ""
+
+#: inc/admin/page-settings.php:133
+msgid "All Orphan tasks are restored"
+msgstr ""
+
+#: wpfeedback.php:1604 wpfeedback.php:1691 inc/admin/wpf_admin_function.php:221
+#: inc/admin/wpf_admin_function.php:301
+msgid "All Pages"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:69
+msgid "Allow guests to create tickets, without the need to log in to the site."
+msgstr ""
+
+#: inc/admin/page-settings.php:638 inc/admin/page-settings.php:649
+#: inc/admin/page-settings.php:660 inc/admin/page-settings.php:671
+#: inc/admin/page-settings.php:682 inc/admin/page-settings.php:693
+#: inc/admin/page-settings.php:704 inc/admin/page-settings.php:715
+msgid ""
+"Allow users to choose this setting on the front-end wizard and inside their "
+"WordPress Profile."
+msgstr ""
+
+#: inc/wpf_function.php:2505 inc/wpf_function.php:2510
+#: inc/wpf_function.php:2681 inc/wpf_function.php:2685
+#: inc/frontend/wpf_approve_page_modal.php:4
+#: inc/frontend/wpf_approve_page_modal.php:9
+msgid "Approve Page"
+msgstr ""
+
+#: inc/wpf_function.php:2502 inc/wpf_function.php:2679
+msgid "Approved"
+msgstr ""
+
+#: inc/wpf_popup_string.php:31
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#. Author of the plugin
+msgid "Atarim"
+msgstr ""
+
+#. Name of the plugin
+msgid "Atarim - Client Interface Plugin"
+msgstr ""
+
+#: wpfeedback.php:1508 inc/wpf_function.php:2454 inc/wpf_function.php:2532
+#: inc/wpf_function.php:2629 inc/wpf_function.php:2702
+msgid "Atarim Dashboard"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Atarim is a client-focused agency management platform to help simplify "
+"collaboration and get things done fast."
+msgstr ""
+
+#: inc/wpf_function.php:1661
+msgid "Auto receive email notification for daily report"
+msgstr ""
+
+#: inc/wpf_function.php:1673
+msgid "Auto receive email notification for weekly report"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:284 inc/admin/page-settings.php:257
+msgid "Auto Screenshot"
+msgstr ""
+
+#: inc/admin/page-settings.php:703 inc/admin/wpf_backend_initial_setup.php:137
+msgid "Auto send email notification for daily report"
+msgstr ""
+
+#: inc/admin/page-settings.php:714 inc/admin/wpf_backend_initial_setup.php:142
+msgid "Auto send email notification for weekly report"
+msgstr ""
+
+#: inc/frontend/wpf_responsive_page_modal.php:14
+msgid "Back to Standard View"
+msgstr ""
+
+#: wpfeedback.php:1511 inc/wpf_function.php:2456 inc/wpf_function.php:2631
+msgid "Backend"
+msgstr ""
+
+#: inc/wpf_popup_string.php:30
+msgid "Better to change the status to complete."
+msgstr ""
+
+#: inc/wpf_email_notifications.php:130
+msgid "Browser"
+msgstr ""
+
+#: inc/wpf_popup_string.php:25
+msgid "Browser:"
+msgstr ""
+
+#: inc/admin/page-settings.php:195
+msgid "Bulk Action"
+msgstr ""
+
+#: inc/wpf_popup_string.php:43
+msgid "Bulk Editing Tasks"
+msgstr ""
+
+#: inc/wpf_ajax_functions.php:376 inc/wpf_email_notifications.php:135
+#: inc/wpf_function.php:825
+msgid "By "
+msgstr ""
+
+#: inc/wpf_email_notifications.php:134 inc/wpf_popup_string.php:38
+msgid "by "
+msgstr ""
+
+#: inc/admin/page-settings.php:455
+msgid ""
+"By default you can create tasks on the front end AND on the back end. By "
+"ticking this option on, users will not be able to create tasks on any of the "
+"WP admin screens."
+msgstr ""
+
+#: inc/admin/page-settings.php:182
+msgid "By Users"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:181
+msgid ""
+"Can do everything except: Choose and change status and urgency, Access the "
+"settings, support, integration and upgrade screens. Can only delete their "
+"own tickets. "
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:171
+msgid ""
+"Can do everything except: Choose and change status, access the settings, "
+"support and upgrade screens. Can only delete their own tickets."
+msgstr ""
+
+#: inc/wpf_function.php:2545
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/page-settings.php:517
+msgid "Change the logo link"
+msgstr ""
+
+#: inc/admin/page-settings.php:523 inc/admin/page-settings.php:530
+msgid "Change the main color"
+msgstr ""
+
+#: inc/admin/page-settings.php:537
+msgid "Change the tutorial video"
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:51
+msgid ""
+"Choose the emails you'd like to receive specifically just for you <br>"
+"(Recommended to keep as is)"
+msgstr ""
+
+#: inc/admin/page-settings.php:431
+msgid "Clear object cache while commenting and creating tasks"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:122
+msgid "Click here to reply"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:136
+msgid "Click here to view the task"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:94
+msgid ""
+"Click the button to activate and add this website to your Agency Dashboard. "
+"If for some reason the connection is not established, please contact support."
+msgstr ""
+
+#: inc/admin/page-settings.php:556
+msgid ""
+"Click this button to revent the whitelabel options to their original state."
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid "Click to give your feedback!"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:170
+#: inc/admin/page-settings-permissions.php:193
+msgid "Client (Website Owner) "
+msgstr ""
+
+#: wpfeedback.php:116 wpfeedback.php:124
+msgid "Collaborate"
+msgstr ""
+
+#: inc/wpf_function.php:1380
+msgid "Collaborate Information"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:300
+msgid "Color Coded Stickers"
+msgstr ""
+
+#: inc/wpf_function.php:2545
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/page-settings.php:422
+msgid ""
+"Compact mode removes the bottom bar from both the front-end & back-end, and "
+"moves the widget to the right side of your screen. You can still use comment "
+"mode and view the sidebar as normal, this mode is to give you the option for "
+"a more \"compact 😉\" experience."
+msgstr ""
+
+#: inc/wpf_email_notifications.php:107 inc/wpf_popup_string.php:14
+msgid "Complete"
+msgstr ""
+
+#: graphics/wpf_graphics.php:332
+msgid "Completed"
+msgstr ""
+
+#: inc/frontend/wpf_approve_page_modal.php:9
+msgid "Confirm and Approve Page"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:374
+msgid ""
+"Create a user for the client and assign it here to allow the client to "
+"comment in guest mode but still be assigned to the tickets for replies and "
+"notifications."
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:79
+msgid "Create Graphics"
+msgstr ""
+
+#: inc/wpf_popup_string.php:10
+msgid "Critical"
+msgstr ""
+
+#: inc/wpf_popup_string.php:40 inc/admin/page-settings.php:271
+msgid "Custom Tags"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:86
+msgid "Customisations"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:167
+msgid "Customisations "
+msgstr ""
+
+#: inc/admin/page-settings.php:138
+msgid "Daily Report"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:88
+#: inc/admin/page-settings-permissions.php:355
+msgid "Default Users"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:269
+msgid "Delete"
+msgstr ""
+
+#: inc/wpf_popup_string.php:29 inc/admin/page-settings.php:316
+msgid "Delete ticket"
+msgstr ""
+
+#: inc/frontend/wpf_responsive_page_modal.php:3
+msgid "Desktop"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:123
+msgid "Direct URL"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:317
+msgid "Display Number On Completed Task"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:127
+msgid "DIV Handle"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:128
+msgid "DIV handle"
+msgstr ""
+
+#: inc/admin/page-settings.php:197
+msgid "Edit All"
+msgstr ""
+
+#: inc/wpf_ajax_functions.php:263 inc/wpf_function.php:688
+#: inc/wpf_popup_string.php:34 inc/admin/page-settings.php:168
+msgid "Email"
+msgstr ""
+
+#: inc/admin/page-settings.php:371 inc/admin/page-settings.php:633
+msgid "Email Notifications"
+msgstr ""
+
+#: inc/wpf_function.php:1404
+msgid "Email notifications"
+msgstr ""
+
+#: inc/admin/page-settings.php:421
+msgid "Enable Atarim Compact Mode"
+msgstr ""
+
+#: inc/admin/page-settings.php:410
+msgid "Enable Atarim's Client Interface Plugin on this website"
+msgstr ""
+
+#: inc/admin/page-settings.php:397
+msgid "Enable Global Settings"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:188
+msgid ""
+"Enable or disable diffent functionality based on the Atarim user types to "
+"overwirte the default settings and customise your workflow."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:133
+msgid ""
+"Enabling this will make Atarim Client Interface visible to everyone who "
+"visits your site and will allow them to create tasks and comment on existing "
+"ones."
+msgstr ""
+
+#: inc/admin/page-settings.php:398
+msgid ""
+"Everything you see on this screen can be managed globally from within your "
+"Agency Dashboard. Enable this option to pull your General Settings, Branding "
+"options and Notification options from the Global Settings panel."
+msgstr ""
+
+#: wpfeedback.php:1585 wpfeedback.php:1613 wpfeedback.php:1673
+#: inc/admin/wpf_admin_function.php:312
+msgid "Filter By Priority"
+msgstr ""
+
+#: wpfeedback.php:1565 inc/wpf_function.php:2661
+#: inc/admin/wpf_admin_function.php:209
+msgid "Filter by Priority:"
+msgstr ""
+
+#: wpfeedback.php:1581 wpfeedback.php:1609 wpfeedback.php:1669
+#: inc/admin/wpf_admin_function.php:228
+msgid "Filter By Status"
+msgstr ""
+
+#: wpfeedback.php:1563 inc/wpf_function.php:2659
+#: inc/admin/wpf_admin_function.php:207
+msgid "Filter by Status:"
+msgstr ""
+
+#: inc/admin/page-settings.php:153
+msgid "Filter Tasks"
+msgstr ""
+
+#: inc/admin/wpf_admin_function.php:222 inc/admin/wpf_admin_function.php:302
+msgid "Frontend"
+msgstr ""
+
+#: wpfeedback.php:1733 inc/wpf_ajax_functions.php:257 inc/wpf_function.php:685
+#: inc/wpf_function.php:2545 inc/wpf_function.php:2545
+#: inc/wpf_popup_string.php:33 inc/admin/page-settings.php:160
+#: inc/admin/page-settings.php:192 inc/admin/wpf_admin_function.php:290
+msgid "General"
+msgstr ""
+
+#: inc/admin/page-settings.php:368 inc/admin/page-settings.php:405
+msgid "General Settings"
+msgstr ""
+
+#: inc/wpf_popup_string.php:45
+msgid "General Task: Choose a page/post to comment"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid ""
+"Give it a few seconds. <br>Then, refresh the page to see the task in the new "
+"position."
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:90
+msgid "Give your new graphic a description"
+msgstr ""
+
+#: inc/admin/page-settings.php:331 inc/admin/page-settings.php:367
+#: inc/admin/page-settings.php:394
+msgid "Global Settings"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:28
+#, php-format
+msgid "Good to have you here %s! There are only 4 steps."
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:69
+msgid "Graphic FeedBack"
+msgstr ""
+
+#: wpfeedback.php:134 inc/wpf_ajax_functions.php:260 inc/wpf_function.php:691
+#: inc/wpf_popup_string.php:35 inc/admin/page-settings-graphics.php:32
+#: inc/admin/page-settings-permissions.php:38 inc/admin/page-settings.php:83
+#: inc/admin/page-settings.php:166
+msgid "Graphics"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:69
+msgid "Graphics Created successfully"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:196
+msgid "Guest "
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:132
+msgid "Guest Mode"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:98
+msgid "has changed"
+msgstr ""
+
+#: inc/admin/page-settings.php:479
+msgid ""
+"Here you can rebrand Atarim Client Interface by changing the main color and "
+"the logo."
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:18
+msgid "Hi "
+msgstr ""
+
+#: inc/wpf_popup_string.php:9
+msgid "High"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:129
+msgid "Hold down the CTRL key to choose multiple options."
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:60
+msgid "How to give feedback"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://atarim.io/"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:127
+msgid ""
+"If a user role is not selected, they will not be able to see Atarim Client "
+"Interface on the front-end, they will still be able to access the plugin "
+"settings though unless you restrict this someone else."
+msgstr ""
+
+#: inc/admin/page-settings.php:443
+msgid ""
+"If this is switched off, you will not see stickers unless you open the "
+"sidebar while on the front-end"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:142
+msgid ""
+"If you are not the intended recipient of this email, you must neither take "
+"any action based upon its contents nor copy or show it to anyone."
+msgstr ""
+
+#: inc/admin/page-settings.php:432
+msgid ""
+"If you have object caching enabled on this website, you can tick this on to "
+"clear the cache when a comment or task is created. This may affect the speed "
+"of the website."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:117
+#: inc/admin/wpf_backend_initial_setup.php:42
+msgid ""
+"If you ran out of website slots, <a href='https://atarim.io/upgrade/' "
+"target='_blank'>Please click here to increase your resources</a>"
+msgstr ""
+
+#: inc/wpf_popup_string.php:12
+msgid "In Prog"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:105
+msgid "In Progress"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:104
+msgid "In progress"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:255
+msgid "Information"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:48
+#: inc/admin/page-settings-permissions.php:54 inc/admin/page-settings.php:97
+msgid "Integrate"
+msgstr ""
+
+#: wpfeedback.php:148
+msgid "Integrations"
+msgstr ""
+
+#: inc/wpf_ajax_functions.php:269 inc/wpf_function.php:698
+#: inc/admin/page-settings.php:170
+msgid "Internal"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:96
+msgid "is done"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:101
+msgid "It is now marked as"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:15
+msgid ""
+"It means you're growing & onboarding more clients!<br>Don't let it stop you"
+msgstr ""
+
+#: inc/wpf_ajax_functions.php:710 inc/wpf_popup_string.php:36
+msgid "just now"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:333
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: inc/wpf_function.php:2469 inc/wpf_function.php:2644
+msgid "Last 24 Hours"
+msgstr ""
+
+#: inc/wpf_function.php:2473 inc/wpf_function.php:2648
+msgid "Last 7 Days"
+msgstr ""
+
+#: inc/wpf_popup_string.php:16
+msgid "Leave a comment..."
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:27
+msgid "Let's get you up and running"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:159
+msgid "Let's rock"
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:76
+msgid "Let's Start"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:133 inc/wpf_popup_string.php:7
+msgid "Low"
+msgstr ""
+
+#: inc/admin/page-settings.php:359
+msgid "Main Settings"
+msgstr ""
+
+#: inc/admin/page-settings.php:480
+msgid "manage Global Settings across all of your websites"
+msgstr ""
+
+#: inc/frontend/wpf_approve_page_modal.php:7
+msgid "Mark all tasks on this page as complete"
+msgstr ""
+
+#: graphics/wpf_graphics.php:329
+msgid "Mark as complete"
+msgstr ""
+
+#: inc/wpf_popup_string.php:18
+msgid "Mark as internal"
+msgstr ""
+
+#: inc/wpf_popup_string.php:8
+msgid "Medium"
+msgstr ""
+
+#: inc/frontend/wpf_responsive_page_modal.php:5
+msgid "Mobile"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:85
+msgid "Name your new graphic item"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:93
+#: inc/admin/wpf_backend_initial_setup.php:150
+msgid "Next >>"
+msgstr ""
+
+#: inc/admin/page-settings.php:226
+msgid "No Tasks found."
+msgstr ""
+
+#: inc/admin/page-settings.php:370
+msgid "Notification Settings"
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:50
+msgid "Notifications"
+msgstr ""
+
+#: inc/admin/page-settings.php:578
+msgid "Notifications Settings"
+msgstr ""
+
+#: inc/admin/page-settings.php:297
+msgid "Notify Users"
+msgstr ""
+
+#: inc/admin/page-settings.php:406
+msgid ""
+"On this screen, you can manage different settings of the plugin. You can "
+"white label it to match your own branding, control which notifications are "
+"sent out to the users of this WordPress website and a few other options "
+"below this text."
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:56
+msgid "One Last Step"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:121
+msgid "Open"
+msgstr ""
+
+#: inc/wpf_popup_string.php:11
+msgid "Open Task"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:103
+msgid "Open task"
+msgstr ""
+
+#: inc/admin/page-settings.php:221
+msgid "Open Task Page"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:124
+msgid "Original Request"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:180
+#: inc/admin/page-settings-permissions.php:195
+msgid "Others "
+msgstr ""
+
+#: inc/admin/page-settings.php:164
+msgid "Page"
+msgstr ""
+
+#: inc/frontend/wpf_approve_page_modal.php:15
+msgid "Page Approved"
+msgstr ""
+
+#: wpfeedback.php:1630
+msgid "Panel"
+msgstr ""
+
+#: inc/wpf_popup_string.php:13
+msgid "Pending"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:106
+msgid "Pending Review"
+msgstr ""
+
+#: wpfeedback.php:143 inc/admin/page-settings-graphics.php:42
+#: inc/admin/page-settings-permissions.php:48
+#: inc/admin/page-settings-permissions.php:76 inc/admin/page-settings.php:92
+msgid "Permissions"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:85
+#: inc/admin/page-settings-permissions.php:124
+msgid "Permissions Settings"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid ""
+"Place the task anywhere on the page to pinpoint the location of the request."
+msgstr ""
+
+#: inc/wpf_email_notifications.php:143
+msgid ""
+"Please contact the sender if you believe you have received this email in "
+"error."
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:85
+msgid "Please enter graphics title"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:90
+msgid "Please enter your graphics discription"
+msgstr ""
+
+#: inc/admin/page-settings.php:226
+msgid "Please have a look at the video to understand the process."
+msgstr ""
+
+#: inc/wpf_popup_string.php:20
+msgid "Please post your comment before performing this action"
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:47
+msgid "Please select anyone"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:117
+msgid "Post"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:115
+msgid "Post Name"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:116
+msgid "Post name"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:100
+msgid "Posted on"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:132
+msgid "Powered by"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:118
+#: inc/admin/page-settings-permissions.php:213
+msgid "Priority"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid "Pushed to Media Folder."
+msgstr ""
+
+#: inc/wpf_function.php:1637
+msgid "Receive email notification for  daily report"
+msgstr ""
+
+#: inc/wpf_function.php:1600
+msgid "Receive email notification for every new comment"
+msgstr ""
+
+#: inc/wpf_function.php:1588
+msgid "Receive email notification for every new task"
+msgstr ""
+
+#: inc/wpf_function.php:1624
+msgid "Receive email notification for every status change"
+msgstr ""
+
+#: inc/wpf_function.php:1650
+msgid "Receive email notification for weekly report"
+msgstr ""
+
+#: inc/wpf_function.php:1612
+msgid "Receive email notification when a task is marked as complete"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid "Remap task"
+msgstr ""
+
+#: inc/wpf_popup_string.php:46
+msgid "Remap the task to other element"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid "Remapping task...."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:89 inc/admin/page-settings.php:386
+msgid ""
+"Remember to Save Changes at the bottom of this screen to apply any changes."
+msgstr ""
+
+#: inc/admin/page-settings.php:454
+msgid "Remove backend commenting"
+msgstr ""
+
+#: inc/wpf_function.php:2490 inc/wpf_function.php:2667
+#: inc/wpf_popup_string.php:42
+msgid "Remove Login Parameter"
+msgstr ""
+
+#: inc/admin/page-settings.php:544
+msgid "Remove mention of \"Atarim\" from the plugin"
+msgstr ""
+
+#: inc/admin/page-settings.php:466
+msgid "Remove the data when removing the plugin"
+msgstr ""
+
+#: inc/admin/page-settings.php:500
+msgid "Replace the Atarim icon"
+msgstr ""
+
+#: inc/admin/page-settings.php:483
+msgid "Replace the Atarim logo"
+msgstr ""
+
+#: inc/admin/page-settings.php:538
+msgid ""
+"Replace the Default Atarim client tutorial video with your own tutorial "
+"video."
+msgstr ""
+
+#: inc/wpf_function.php:2478 inc/wpf_function.php:2653
+#: inc/wpf_function.php:2653
+msgid "Reports"
+msgstr ""
+
+#: inc/wpf_function.php:1930
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/page-settings.php:555 inc/admin/page-settings.php:557
+msgid "Reset White Label Settings"
+msgstr ""
+
+#: inc/wpf_popup_string.php:24
+msgid "Resolution:"
+msgstr ""
+
+#: inc/admin/page-settings.php:147
+msgid "Restore Orphan Tasks"
+msgstr ""
+
+#: inc/admin/page-settings.php:378
+msgid "Resync the Agency Dashboard"
+msgstr ""
+
+#: inc/admin/page-settings.php:320
+msgid "Save Bulk Changes"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:390 inc/admin/page-settings.php:732
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:241
+msgid "Screenshot"
+msgstr ""
+
+#: inc/wpf_popup_string.php:15
+msgid "Screenshot The Current View"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:129
+msgid "Screensize"
+msgstr ""
+
+#: wpfeedback.php:1587 wpfeedback.php:1615 wpfeedback.php:1643
+#: wpfeedback.php:1675 wpfeedback.php:1702 wpfeedback.php:1751
+#: inc/admin/page-settings.php:131 inc/admin/wpf_admin_function.php:234
+#: inc/admin/wpf_admin_function.php:255 inc/admin/wpf_admin_function.php:314
+#: inc/admin/wpf_admin_function.php:335
+msgid "Search by task title"
+msgstr ""
+
+#: inc/wpf_function.php:1389
+msgid "Select"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:360
+#: inc/admin/page-settings-permissions.php:376
+msgid "select"
+msgstr ""
+
+#: inc/wpf_function.php:2324
+msgid "Select Option"
+msgstr ""
+
+#: inc/admin/page-settings.php:648 inc/admin/wpf_backend_initial_setup.php:112
+msgid "Send email notification for every new comment"
+msgstr ""
+
+#: inc/admin/page-settings.php:637 inc/admin/wpf_backend_initial_setup.php:107
+msgid "Send email notification for every new task"
+msgstr ""
+
+#: inc/admin/page-settings.php:670 inc/admin/wpf_backend_initial_setup.php:122
+msgid "Send email notification for every status change"
+msgstr ""
+
+#: inc/admin/page-settings.php:681 inc/admin/wpf_backend_initial_setup.php:127
+msgid "Send email notification for last 24 hours report"
+msgstr ""
+
+#: inc/admin/page-settings.php:692 inc/admin/wpf_backend_initial_setup.php:132
+msgid "Send email notification for last 7 days report"
+msgstr ""
+
+#: inc/admin/page-settings.php:659 inc/admin/wpf_backend_initial_setup.php:117
+msgid "Send email notification when a task is marked as complete"
+msgstr ""
+
+#: inc/admin/page-settings.php:627
+msgid "Send email notifications to the following address"
+msgstr ""
+
+#: inc/wpf_popup_string.php:37
+msgid "Send Message"
+msgstr ""
+
+#: inc/wpf_function.php:2466 inc/wpf_function.php:2641
+msgid "Send Reports:"
+msgstr ""
+
+#: wpfeedback.php:138 wpfeedback.php:175
+#: inc/admin/page-settings-graphics.php:37
+#: inc/admin/page-settings-permissions.php:43 inc/admin/page-settings.php:87
+msgid "Settings"
+msgstr ""
+
+#: inc/wpf_function.php:2545
+msgid "Share"
+msgstr ""
+
+#: inc/wpf_function.php:2490 inc/wpf_function.php:2667
+msgid "Share Page Link : "
+msgstr ""
+
+#: inc/wpf_popup_string.php:41
+msgid "Share Task Link :"
+msgstr ""
+
+#: inc/wpf_function.php:2487 inc/wpf_function.php:2665
+msgid "Show Completed"
+msgstr ""
+
+#: inc/wpf_function.php:2488
+msgid "Show Internal"
+msgstr ""
+
+#: inc/admin/page-settings.php:442
+msgid "Show task stickers by default"
+msgstr ""
+
+#: inc/wpf_function.php:2486 inc/wpf_function.php:2664
+msgid "Show Tasks"
+msgstr ""
+
+#: inc/frontend/wpf_login_modal.php:6
+msgid "Skip the login"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:163
+msgid "Skip Wizard"
+msgstr ""
+
+#: inc/admin/page-settings-graphics.php:116
+msgid "Start Collaborating"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:119
+#: inc/admin/page-settings-permissions.php:227
+msgid "Status"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:144
+msgid "Stop comments for admins"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:145
+msgid "Stop comments for admins on front end."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:176
+msgid "Super admin – he has full capabilities for all the plugin’s functions. "
+msgstr ""
+
+#: wpfeedback.php:157 inc/admin/page-settings-graphics.php:55
+#: inc/admin/page-settings-permissions.php:60 inc/admin/page-settings.php:102
+msgid "Support"
+msgstr ""
+
+#: inc/frontend/wpf_responsive_page_modal.php:4
+msgid "Tablet"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:114
+msgid "Task"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid "Task already exist for this element."
+msgstr ""
+
+#: inc/admin/page-settings.php:256
+msgid "Task Attributes"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:113
+msgid "Task ID"
+msgstr ""
+
+#: inc/wpf_popup_string.php:28
+msgid "Task ID:"
+msgstr ""
+
+#: inc/admin/page-settings.php:174 inc/admin/page-settings.php:278
+#: inc/admin/page-settings.php:307
+msgid "Task Status"
+msgstr ""
+
+#: inc/admin/page-settings.php:156
+msgid "Task Types"
+msgstr ""
+
+#: inc/admin/page-settings.php:179 inc/admin/page-settings.php:284
+#: inc/admin/page-settings.php:311
+msgid "Task Urgency"
+msgstr ""
+
+#: inc/wpf_function.php:2545
+msgid "Task Visibility"
+msgstr ""
+
+#: inc/wpf_function.php:2545 inc/admin/page-settings-graphics.php:28
+#: inc/admin/page-settings-permissions.php:34 inc/admin/page-settings.php:80
+msgid "Tasks"
+msgstr ""
+
+#: wpfeedback.php:131 inc/admin/page-settings.php:128
+msgid "Tasks Center"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:112
+msgid "Tasks completed this week"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:110
+msgid "Tasks completed today"
+msgstr ""
+
+#: inc/wpf_popup_string.php:44 inc/admin/page-settings.php:191
+msgid "Tasks Found"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:109
+msgid "Tasks summary for the day"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:111
+msgid "Tasks summary for the week"
+msgstr ""
+
+#: inc/wpf_function.php:2486 inc/wpf_function.php:2664
+msgid "Tasks Visibility"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:14
+msgid "That's great!"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:373
+msgid "The client"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:97
+#: inc/admin/wpf_backend_initial_setup.php:34
+msgid ""
+"The Client Interface Plugin will not work unless you click the following "
+"button and activate this website."
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid ""
+"The file was added to the website's media folder, you can now use it from "
+"the there."
+msgstr ""
+
+#: inc/admin/page-settings.php:485
+msgid "The image should be 180x45 px. Allowed jpg, png."
+msgstr ""
+
+#: inc/admin/page-settings.php:502
+msgid "The image should be 50px X 50px. Allowed jpg, png."
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:48
+msgid "The user roles that are allowed to create tickets and give feedback."
+msgstr ""
+
+#: inc/admin/page-settings.php:539
+msgid ""
+"The video will be replaced on the frontend wizard as well as tasks screen on "
+"backend when empty."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:357
+msgid "The website builder"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:358
+msgid ""
+"The website builder will add this user to all tasks by default, allowing the "
+"client to skip the \"choose a user\" tab when creating a task. It will also "
+"be used for the Auto Login option when coming from the Agency Dashboard."
+msgstr ""
+
+#: inc/wpf_popup_string.php:23
+msgid "The website server didn't respond to the file upload, please try again"
+msgstr ""
+
+#: inc/wpf_popup_string.php:21
+msgid "The website server didn't respond, please try again"
+msgstr ""
+
+#: inc/admin/page-settings.php:134
+msgid "There are no Orphan tasks"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:18
+msgid "There was some error. Please try again."
+msgstr ""
+
+#: inc/frontend/wpf_approve_page_modal.php:10
+msgid "there was some error. Please try again."
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:102
+msgid ""
+"These are global settings. Each user can then choose their own notifications "
+"out of the options selected here."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:168
+msgid ""
+"These names are for the setup wizard when you first installed the plugin. "
+"Every user who comes to the website after installation will have to go "
+"through it and you can name the 3 options here."
+msgstr ""
+
+#: inc/wpf_email_notifications.php:141
+msgid ""
+"This email and any attachments to it may be confidential and are intended "
+"solely for the use of the individual to whom it is addressed."
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:71
+msgid ""
+"This is great for staging sites or during the build, but not ideal for live "
+"websites. The real magic is getting your clients used to using WordPress by "
+"encouraging them to log in to their own website."
+msgstr ""
+
+#: inc/admin/page-settings.php:519
+msgid ""
+"This is great for upselling your clients or making them aware of additional "
+"services that you can provide."
+msgstr ""
+
+#: inc/admin/page-settings.php:411
+msgid ""
+"This is used to enable and disable the collaboration functions on this "
+"website, to save you the trouble of having to deactivate it in your plugin "
+"settings."
+msgstr ""
+
+#: inc/admin/page-settings.php:628
+msgid ""
+"This option is in addition to the user emails. Seperate with comma for "
+"multiple addresses."
+msgstr ""
+
+#: wpfeedback.php:1576 wpfeedback.php:1603 wpfeedback.php:1664
+#: wpfeedback.php:1690 inc/admin/wpf_admin_function.php:220
+#: inc/admin/wpf_admin_function.php:300
+msgid "This Page"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:387
+msgid ""
+"This will be the user you created for your main contact for this website."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:369
+msgid ""
+"This will probably be your own user, as the person or agency that is "
+"building the website."
+msgstr ""
+
+#: inc/admin/page-settings.php:518
+msgid "This will replace the &quot;Powered by Atarim&quot; link to your own."
+msgstr ""
+
+#: inc/admin/page-settings.php:501
+msgid "This will replace the Atarim icon in the admin side menu."
+msgstr ""
+
+#: inc/admin/page-settings.php:484
+msgid ""
+"This will replace the logo in the top right of this page and the logo on the "
+"notification emails that are sent out."
+msgstr ""
+
+#: inc/admin/page-settings.php:545
+msgid ""
+"Tick this setting to remove the name Atarim. Add your own logo and change "
+"the logo link above to ensure that the Client Interface Plugin is white "
+"labelled entirely."
+msgstr ""
+
+#: inc/admin/page-settings.php:634
+msgid ""
+"Ticking these on will display <b>them as an option on the front-end wizard "
+"for users to choose</b>. For example, if you don't want users to choose the "
+"option to send 24 hour reports, tick that off and it will not display on the "
+"front-end wizard."
+msgstr ""
+
+#: inc/admin/page-settings.php:407
+msgid "To find these settings, go here."
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:19
+msgid "To optimize your experience, which one describes you best?"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:16
+msgid "Unlock This Website"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:16
+msgid "Unlock Website"
+msgstr ""
+
+#: wpfeedback.php:160 inc/admin/page-settings-graphics.php:61
+#: inc/admin/page-settings-permissions.php:66 inc/admin/page-settings.php:107
+msgid "Upgrade"
+msgstr ""
+
+#: graphics/wpf_graphics_all_list.php:14
+msgid ""
+"Upload an image to collaborate visually using Atarim, perfect for screen "
+"mockups, logos, flyers or any other type of graphic you are designing."
+msgstr ""
+
+#: graphics/wpf_graphics.php:294
+msgid "Upload New Version"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:131
+msgid "User IP"
+msgstr ""
+
+#: inc/wpf_popup_string.php:27
+msgid "User IP:"
+msgstr ""
+
+#: inc/wpf_popup_string.php:26
+msgid "User Name:"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:87
+#: inc/admin/page-settings-permissions.php:186
+msgid "User Permissions"
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:126
+msgid "User roles allowed to create tasks"
+msgstr ""
+
+#: inc/wpf_function.php:1384
+msgid "User Type"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:125
+msgid "Users"
+msgstr ""
+
+#: inc/wpf_function.php:2107
+msgid "Version"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:120
+msgid "View"
+msgstr ""
+
+#: inc/wpf_function.php:2545
+msgid "Visibility"
+msgstr ""
+
+#: inc/frontend/wpf_frontend_initial_setup.php:61
+msgid "Watch this short tutorial to get started"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:156
+msgid ""
+"Watch this short video to show you how to use Atarim to its full potential, "
+"saving you loaaaads of time and getting your client to love you even more."
+msgstr ""
+
+#: inc/admin/page-settings-permissions.php:175
+#: inc/admin/page-settings-permissions.php:194
+msgid "Webmaster"
+msgstr ""
+
+#: inc/admin/page-settings.php:381
+msgid ""
+"Websites should now be resync / added now to the dashboard. Please contact "
+"support in case if does not."
+msgstr ""
+
+#: inc/admin/page-settings.php:143
+msgid "Weekly Report"
+msgstr ""
+
+#: inc/frontend/wpf_approve_page_modal.php:5
+msgid ""
+"When the page is ready, click the green button to signal to the webmaster "
+"that <b>this page is approved."
+msgstr ""
+
+#: inc/admin/page-settings.php:524 inc/admin/page-settings.php:531
+msgid ""
+"Where ever you see the blue, this option will change it to whatever color "
+"you want!"
+msgstr ""
+
+#: inc/admin/page-settings.php:480
+msgid ""
+"where your license is activated by visiting the general settings screen on "
+"your"
+msgstr ""
+
+#: inc/admin/wpf_backend_initial_setup.php:101
+msgid "Which notifications would you like the plugin to send out?"
+msgstr ""
+
+#: inc/admin/page-settings.php:369 inc/admin/page-settings.php:475
+msgid "White Label"
+msgstr ""
+
+#: wpfeedback.php:1629 inc/admin/wpf_admin_function.php:214
+msgid ""
+"Write your message in the existing thread. <br>Here, we opened it for you."
+msgstr ""
+
+#: inc/wpf_popup_string.php:32
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/page-settings.php:480
+msgid "You can "
+msgstr ""
+
+#: inc/admin/page-settings.php:407
+msgid "You can also control the permissions of Atarim Client Interface:"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:94
+msgid "You have a new reply on"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:93
+msgid "You have a new task on"
+msgstr ""
+
+#: inc/frontend/wpf_restrictions_modal.php:13
+msgid "You Ran Out of Website Slots"
+msgstr ""
+
+#: inc/admin/page-settings.php:407
+msgid "You will also see your license settings on this page."
+msgstr ""
+
+#: inc/wpf_email_notifications.php:99
+msgid "Your daily report for"
+msgstr ""
+
+#: inc/wpf_function.php:2475 inc/wpf_function.php:2650
+#: inc/admin/page-settings.php:132
+msgid "Your report was sent"
+msgstr ""
+
+#: inc/wpf_function.php:1082
+msgid "Your settings have been saved!"
+msgstr ""
+
+#: inc/wpf_function.php:1089
+msgid "Your Settings not saved. "
+msgstr ""
+
+#: inc/wpf_email_notifications.php:95
+msgid "Your task on"
+msgstr ""
+
+#: inc/wpf_email_notifications.php:97
+msgid "Your task status on"
+msgstr ""
+
+#: inc/admin/page-settings.php:745
+msgid "Zapier Integration"
+msgstr ""

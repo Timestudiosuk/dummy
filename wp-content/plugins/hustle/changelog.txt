@@ -1,0 +1,70 @@
+Plugin Name: Hustle
+Author: Ivan Svyrskyi (Incsub)
+
+Change Log:
+----------------------------------------------------------------------
+
+= 4.8.2 ( 2023-10-03 ) =
+
+ - Fix: ConstantContact authentification.
+ - Fix: Cannot edit or add hyperlink
+ - Fix: Click triggers not working for elements loaded after Hustle has loaded
+ - Fix: Popup on exit intent is triggered when select box option is changed
+ - Fix: Text Field error message apostrophe is converted to &#039;
+ - Fix: Deprecated notice for PHP 8.2
+ - Enhance: Update the "Sendinblue" brand name to "Brevo"
+ - Enhance: Remove mascot images
+
+
+= 4.8.1 ( 2023-08-24 ) =
+
+- Enhance: Set up a redirect URL for Hubspot
+- Fix: Issues with Hustle ActiveCampaign integration
+- Fix: Bullet Points are not showing on the success message
+
+
+= 4.8.0 ( 2023-06-27 ) =
+
+- Enhance: Require PHP 7.4 as the minimum supported version
+- Enhance: Prevent XSS vulnerability in translations
+- Enhance: Update the "InfusionSoft" brand name to "Keap"
+- Fix: Prevent page scroll to a Hustle Embed when a Pop-Up is closed
+- Fix: Custom Margin, Padding, and Border do not work for Slide-ins
+- Fix: Social Sharing module and Static Server Cache causing critical error
+- Fix: Issue with Close button on iOS
+
+
+= 4.7.1 ( 2023-06-07 ) =
+
+- Enhance: Performance improvements.
+
+
+= 4.7.0 ( 2023-04-10 ) =
+
+- New: Ability to display modules N times per day/week/month/year
+- New: Make whole module a clickable CTA
+- Enhance: White Labeling plugin name
+- Enhance: Module accessibility
+- Enhance: Conditional visibility for modules with CTA when 2 buttons are used
+- Enhance: Allow customizing Close Button size
+- Enhance: Compatibility with PHP 8.2
+- Fix: W3C issue with style sheets
+- Fix: Compatibility issue with ACF Pro plugin
+- Fix: Divi theme issue - Triggering module using link ID does not work
+
+
+= 4.6.6 ( 2023-03-30 ) =
+
+- Enhance: Security improvements.
+- Fix: Helper Text font style cannot be reset
+- Fix: Title and Subtitle alignments are not working after reset
+- Fix: Embed Title is being cut off when you use Halloween Template
+- Fix: Redirect URL input field for CTA 2 doesn't show by default in Embed when starting from scratch
+
+
+= 4.6.5 ( 2023-02-20 ) =
+
+- Enhance: Security improvements.
+
+
+296897-1696449748-au
